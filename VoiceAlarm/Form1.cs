@@ -107,10 +107,7 @@ namespace VoiceAlarm
             };
         }
 
-        private void label63_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         //private void textBox21_TextChanged(object sender, EventArgs e)
         //{

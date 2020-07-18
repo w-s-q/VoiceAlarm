@@ -28,20 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraCharts.XYDiagram xyDiagram7 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series7 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView13 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView14 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.ChartTitle chartTitle7 = new DevExpress.XtraCharts.ChartTitle();
-            DevExpress.XtraCharts.XYDiagram xyDiagram8 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series8 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView15 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView16 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.ChartTitle chartTitle8 = new DevExpress.XtraCharts.ChartTitle();
-            HZH_Controls.Controls.TimeLineItem timeLineItem13 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem14 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem15 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem16 = new HZH_Controls.Controls.TimeLineItem();
+            DevExpress.XtraCharts.XYDiagram xyDiagram1 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView1 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView2 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.ChartTitle chartTitle1 = new DevExpress.XtraCharts.ChartTitle();
+            DevExpress.XtraCharts.XYDiagram xyDiagram2 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series2 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView3 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView4 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.ChartTitle chartTitle2 = new DevExpress.XtraCharts.ChartTitle();
+            HZH_Controls.Controls.TimeLineItem timeLineItem1 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem2 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem3 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem4 = new HZH_Controls.Controls.TimeLineItem();
             this.label1 = new System.Windows.Forms.Label();
             this.v = new System.Windows.Forms.TableLayoutPanel();
             this.ucSignalLamp20 = new HZH_Controls.Controls.UCSignalLamp();
@@ -162,12 +162,62 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.label149 = new System.Windows.Forms.Label();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.label150 = new System.Windows.Forms.Label();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.label151 = new System.Windows.Forms.Label();
+            this.textBox41 = new System.Windows.Forms.TextBox();
+            this.label152 = new System.Windows.Forms.Label();
+            this.textBox42 = new System.Windows.Forms.TextBox();
+            this.label153 = new System.Windows.Forms.Label();
+            this.textBox43 = new System.Windows.Forms.TextBox();
+            this.label79 = new System.Windows.Forms.Label();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.label80 = new System.Windows.Forms.Label();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.label77 = new System.Windows.Forms.Label();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.label78 = new System.Windows.Forms.Label();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.label75 = new System.Windows.Forms.Label();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.label76 = new System.Windows.Forms.Label();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.label73 = new System.Windows.Forms.Label();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.label74 = new System.Windows.Forms.Label();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.label71 = new System.Windows.Forms.Label();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.label72 = new System.Windows.Forms.Label();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.label70 = new System.Windows.Forms.Label();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.label69 = new System.Windows.Forms.Label();
+            this.textBox27 = new System.Windows.Forms.TextBox();
             this.ucledData1 = new HZH_Controls.Controls.UCLEDData();
             this.ucledTime1 = new HZH_Controls.Controls.UCLEDTime();
             this.panel8 = new System.Windows.Forms.Panel();
             this.label50 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
             this.panel9 = new System.Windows.Forms.Panel();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.label68 = new System.Windows.Forms.Label();
+            this.textBox25 = new System.Windows.Forms.TextBox();
+            this.label67 = new System.Windows.Forms.Label();
+            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.label66 = new System.Windows.Forms.Label();
+            this.textBox23 = new System.Windows.Forms.TextBox();
+            this.label65 = new System.Windows.Forms.Label();
+            this.textBox22 = new System.Windows.Forms.TextBox();
+            this.label64 = new System.Windows.Forms.Label();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.label63 = new System.Windows.Forms.Label();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.label62 = new System.Windows.Forms.Label();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.label61 = new System.Windows.Forms.Label();
             this.textBox18 = new System.Windows.Forms.TextBox();
             this.label60 = new System.Windows.Forms.Label();
             this.label59 = new System.Windows.Forms.Label();
@@ -179,151 +229,8 @@
             this.textBox16 = new System.Windows.Forms.TextBox();
             this.textBox15 = new System.Windows.Forms.TextBox();
             this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.label61 = new System.Windows.Forms.Label();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.label62 = new System.Windows.Forms.Label();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.label63 = new System.Windows.Forms.Label();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.label64 = new System.Windows.Forms.Label();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.label65 = new System.Windows.Forms.Label();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.label66 = new System.Windows.Forms.Label();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.label67 = new System.Windows.Forms.Label();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.label68 = new System.Windows.Forms.Label();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.label69 = new System.Windows.Forms.Label();
-            this.label70 = new System.Windows.Forms.Label();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.label71 = new System.Windows.Forms.Label();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.label72 = new System.Windows.Forms.Label();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.label73 = new System.Windows.Forms.Label();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.label74 = new System.Windows.Forms.Label();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.label75 = new System.Windows.Forms.Label();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.label76 = new System.Windows.Forms.Label();
-            this.textBox34 = new System.Windows.Forms.TextBox();
-            this.label77 = new System.Windows.Forms.Label();
-            this.textBox35 = new System.Windows.Forms.TextBox();
-            this.label78 = new System.Windows.Forms.Label();
-            this.textBox36 = new System.Windows.Forms.TextBox();
-            this.label79 = new System.Windows.Forms.Label();
-            this.textBox37 = new System.Windows.Forms.TextBox();
-            this.label80 = new System.Windows.Forms.Label();
-            this.textBox38 = new System.Windows.Forms.TextBox();
             this.ucSplitLine_H1 = new HZH_Controls.Controls.UCSplitLine_H();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.label81 = new System.Windows.Forms.Label();
-            this.ucSplitLine_H16 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H17 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H18 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.label82 = new System.Windows.Forms.Label();
-            this.label83 = new System.Windows.Forms.Label();
-            this.label84 = new System.Windows.Forms.Label();
-            this.ucSplitLine_H2 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H3 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H4 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H5 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H6 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H7 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H8 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H9 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H10 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H11 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H12 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H13 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H14 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H15 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H19 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H20 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.label85 = new System.Windows.Forms.Label();
-            this.label86 = new System.Windows.Forms.Label();
-            this.label87 = new System.Windows.Forms.Label();
-            this.label88 = new System.Windows.Forms.Label();
-            this.label89 = new System.Windows.Forms.Label();
-            this.label90 = new System.Windows.Forms.Label();
-            this.label91 = new System.Windows.Forms.Label();
-            this.label92 = new System.Windows.Forms.Label();
-            this.label93 = new System.Windows.Forms.Label();
-            this.label94 = new System.Windows.Forms.Label();
-            this.label95 = new System.Windows.Forms.Label();
-            this.label96 = new System.Windows.Forms.Label();
-            this.label97 = new System.Windows.Forms.Label();
-            this.label98 = new System.Windows.Forms.Label();
-            this.label99 = new System.Windows.Forms.Label();
-            this.label100 = new System.Windows.Forms.Label();
-            this.label101 = new System.Windows.Forms.Label();
-            this.label102 = new System.Windows.Forms.Label();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label104 = new System.Windows.Forms.Label();
-            this.label105 = new System.Windows.Forms.Label();
-            this.label106 = new System.Windows.Forms.Label();
-            this.label107 = new System.Windows.Forms.Label();
-            this.label108 = new System.Windows.Forms.Label();
-            this.label109 = new System.Windows.Forms.Label();
-            this.label110 = new System.Windows.Forms.Label();
-            this.label111 = new System.Windows.Forms.Label();
-            this.label112 = new System.Windows.Forms.Label();
-            this.label113 = new System.Windows.Forms.Label();
-            this.label114 = new System.Windows.Forms.Label();
-            this.label115 = new System.Windows.Forms.Label();
-            this.label116 = new System.Windows.Forms.Label();
-            this.ucSplitLine_H21 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H22 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H23 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H24 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H25 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H26 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H27 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H28 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H29 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H30 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H31 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H32 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H33 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H34 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H35 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H36 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.label117 = new System.Windows.Forms.Label();
-            this.label118 = new System.Windows.Forms.Label();
-            this.label119 = new System.Windows.Forms.Label();
-            this.label120 = new System.Windows.Forms.Label();
-            this.label121 = new System.Windows.Forms.Label();
-            this.label122 = new System.Windows.Forms.Label();
-            this.label123 = new System.Windows.Forms.Label();
-            this.label124 = new System.Windows.Forms.Label();
-            this.label125 = new System.Windows.Forms.Label();
-            this.label126 = new System.Windows.Forms.Label();
-            this.label127 = new System.Windows.Forms.Label();
-            this.label128 = new System.Windows.Forms.Label();
-            this.label129 = new System.Windows.Forms.Label();
-            this.label130 = new System.Windows.Forms.Label();
-            this.label131 = new System.Windows.Forms.Label();
-            this.label132 = new System.Windows.Forms.Label();
-            this.ucSplitLine_H37 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H38 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H39 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H40 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H41 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H42 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H43 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H44 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H45 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H46 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H47 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H48 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H49 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H50 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H51 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.ucSplitLine_H52 = new HZH_Controls.Controls.UCSplitLine_H();
             this.label133 = new System.Windows.Forms.Label();
             this.label134 = new System.Windows.Forms.Label();
             this.label135 = new System.Windows.Forms.Label();
@@ -356,31 +263,124 @@
             this.ucSplitLine_H66 = new HZH_Controls.Controls.UCSplitLine_H();
             this.ucSplitLine_H67 = new HZH_Controls.Controls.UCSplitLine_H();
             this.ucSplitLine_H68 = new HZH_Controls.Controls.UCSplitLine_H();
-            this.label149 = new System.Windows.Forms.Label();
-            this.textBox39 = new System.Windows.Forms.TextBox();
-            this.label150 = new System.Windows.Forms.Label();
-            this.textBox40 = new System.Windows.Forms.TextBox();
-            this.label151 = new System.Windows.Forms.Label();
-            this.textBox41 = new System.Windows.Forms.TextBox();
-            this.label152 = new System.Windows.Forms.Label();
-            this.textBox42 = new System.Windows.Forms.TextBox();
-            this.label153 = new System.Windows.Forms.Label();
-            this.textBox43 = new System.Windows.Forms.TextBox();
+            this.label117 = new System.Windows.Forms.Label();
+            this.label118 = new System.Windows.Forms.Label();
+            this.label119 = new System.Windows.Forms.Label();
+            this.label120 = new System.Windows.Forms.Label();
+            this.label121 = new System.Windows.Forms.Label();
+            this.label122 = new System.Windows.Forms.Label();
+            this.label123 = new System.Windows.Forms.Label();
+            this.label124 = new System.Windows.Forms.Label();
+            this.label125 = new System.Windows.Forms.Label();
+            this.label126 = new System.Windows.Forms.Label();
+            this.label127 = new System.Windows.Forms.Label();
+            this.label128 = new System.Windows.Forms.Label();
+            this.label129 = new System.Windows.Forms.Label();
+            this.label130 = new System.Windows.Forms.Label();
+            this.label131 = new System.Windows.Forms.Label();
+            this.label132 = new System.Windows.Forms.Label();
+            this.ucSplitLine_H37 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H38 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H39 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H40 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H41 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H42 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H43 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H44 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H45 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H46 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H47 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H48 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H49 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H50 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H51 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H52 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.label101 = new System.Windows.Forms.Label();
+            this.label102 = new System.Windows.Forms.Label();
+            this.label103 = new System.Windows.Forms.Label();
+            this.label104 = new System.Windows.Forms.Label();
+            this.label105 = new System.Windows.Forms.Label();
+            this.label106 = new System.Windows.Forms.Label();
+            this.label107 = new System.Windows.Forms.Label();
+            this.label108 = new System.Windows.Forms.Label();
+            this.label109 = new System.Windows.Forms.Label();
+            this.label110 = new System.Windows.Forms.Label();
+            this.label111 = new System.Windows.Forms.Label();
+            this.label112 = new System.Windows.Forms.Label();
+            this.label113 = new System.Windows.Forms.Label();
+            this.label114 = new System.Windows.Forms.Label();
+            this.label115 = new System.Windows.Forms.Label();
+            this.label116 = new System.Windows.Forms.Label();
+            this.ucSplitLine_H21 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H22 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H23 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H24 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H25 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H26 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H27 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H28 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H29 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H30 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H31 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H32 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H33 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H34 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H35 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H36 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.label100 = new System.Windows.Forms.Label();
+            this.label99 = new System.Windows.Forms.Label();
+            this.label98 = new System.Windows.Forms.Label();
+            this.label97 = new System.Windows.Forms.Label();
+            this.label96 = new System.Windows.Forms.Label();
+            this.label95 = new System.Windows.Forms.Label();
+            this.label94 = new System.Windows.Forms.Label();
+            this.label93 = new System.Windows.Forms.Label();
+            this.label92 = new System.Windows.Forms.Label();
+            this.label91 = new System.Windows.Forms.Label();
+            this.label90 = new System.Windows.Forms.Label();
+            this.label89 = new System.Windows.Forms.Label();
+            this.label88 = new System.Windows.Forms.Label();
+            this.label87 = new System.Windows.Forms.Label();
+            this.label86 = new System.Windows.Forms.Label();
+            this.label85 = new System.Windows.Forms.Label();
+            this.ucSplitLine_H20 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H19 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H15 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H14 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H13 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H12 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H11 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H10 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H9 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H8 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H7 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H6 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H5 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H4 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H3 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H2 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.label84 = new System.Windows.Forms.Label();
+            this.label83 = new System.Windows.Forms.Label();
+            this.label82 = new System.Windows.Forms.Label();
+            this.ucSplitLine_H18 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H17 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.ucSplitLine_H16 = new HZH_Controls.Controls.UCSplitLine_H();
+            this.label81 = new System.Windows.Forms.Label();
             this.v.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView4)).BeginInit();
             this.panel5.SuspendLayout();
             this.panel6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -464,7 +464,7 @@
             this.v.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 70F));
             this.v.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.v.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.v.Size = new System.Drawing.Size(749, 318);
+            this.v.Size = new System.Drawing.Size(771, 318);
             this.v.TabIndex = 0;
             // 
             // ucSignalLamp20
@@ -1075,9 +1075,9 @@
             this.panel1.Controls.Add(this.label25);
             this.panel1.Controls.Add(this.label24);
             this.panel1.Controls.Add(this.label23);
-            this.panel1.Location = new System.Drawing.Point(1190, 174);
+            this.panel1.Location = new System.Drawing.Point(1217, 174);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(718, 229);
+            this.panel1.Size = new System.Drawing.Size(691, 229);
             this.panel1.TabIndex = 11;
             // 
             // ucMeter8
@@ -1264,7 +1264,7 @@
             this.panel2.Controls.Add(this.ucBottle1);
             this.panel2.Controls.Add(this.wdj);
             this.panel2.Controls.Add(this.ucBottle2);
-            this.panel2.Location = new System.Drawing.Point(767, 344);
+            this.panel2.Location = new System.Drawing.Point(796, 344);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(417, 310);
             this.panel2.TabIndex = 12;
@@ -1375,9 +1375,9 @@
             this.panel4.Controls.Add(this.label51);
             this.panel4.Controls.Add(this.chartControl2);
             this.panel4.Controls.Add(this.chartControl1);
-            this.panel4.Location = new System.Drawing.Point(1190, 404);
+            this.panel4.Location = new System.Drawing.Point(1219, 404);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(718, 245);
+            this.panel4.Size = new System.Drawing.Size(689, 245);
             this.panel4.TabIndex = 16;
             // 
             // textBox12
@@ -1447,45 +1447,45 @@
             // chartControl2
             // 
             this.chartControl2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            xyDiagram7.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram7.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartControl2.Diagram = xyDiagram7;
+            xyDiagram1.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram1.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartControl2.Diagram = xyDiagram1;
             this.chartControl2.Legend.Visibility = DevExpress.Utils.DefaultBoolean.False;
             this.chartControl2.Location = new System.Drawing.Point(358, 3);
             this.chartControl2.Name = "chartControl2";
             this.chartControl2.PaletteName = "Yellow";
-            series7.Name = "系列1";
-            series7.View = lineSeriesView13;
+            series1.Name = "系列1";
+            series1.View = lineSeriesView1;
             this.chartControl2.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series7};
-            this.chartControl2.SeriesTemplate.View = lineSeriesView14;
+        series1};
+            this.chartControl2.SeriesTemplate.View = lineSeriesView2;
             this.chartControl2.Size = new System.Drawing.Size(322, 200);
             this.chartControl2.TabIndex = 18;
-            chartTitle7.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartTitle7.Text = "2#位底吹流量";
+            chartTitle1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartTitle1.Text = "2#位底吹流量";
             this.chartControl2.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle7});
+            chartTitle1});
             // 
             // chartControl1
             // 
             this.chartControl1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            xyDiagram8.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram8.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartControl1.Diagram = xyDiagram8;
+            xyDiagram2.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram2.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartControl1.Diagram = xyDiagram2;
             this.chartControl1.Legend.Visibility = DevExpress.Utils.DefaultBoolean.False;
             this.chartControl1.Location = new System.Drawing.Point(10, 3);
             this.chartControl1.Name = "chartControl1";
-            series8.Name = "系列1";
-            series8.View = lineSeriesView15;
+            series2.Name = "系列1";
+            series2.View = lineSeriesView3;
             this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series8};
-            this.chartControl1.SeriesTemplate.View = lineSeriesView16;
+        series2};
+            this.chartControl1.SeriesTemplate.View = lineSeriesView4;
             this.chartControl1.Size = new System.Drawing.Size(322, 200);
             this.chartControl1.TabIndex = 17;
-            chartTitle8.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartTitle8.Text = "1#位底吹流量";
+            chartTitle2.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartTitle2.Text = "1#位底吹流量";
             this.chartControl1.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle8});
+            chartTitle2});
             // 
             // panel5
             // 
@@ -1514,9 +1514,9 @@
             this.panel5.Controls.Add(this.ucMeter10);
             this.panel5.Controls.Add(this.ucMeter9);
             this.panel5.Controls.Add(this.ucMeter1);
-            this.panel5.Location = new System.Drawing.Point(13, 498);
+            this.panel5.Location = new System.Drawing.Point(9, 498);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(749, 213);
+            this.panel5.Size = new System.Drawing.Size(781, 213);
             this.panel5.TabIndex = 17;
             // 
             // label37
@@ -1586,7 +1586,7 @@
             this.ucMeter14.FixedText = null;
             this.ucMeter14.Font = new System.Drawing.Font("宋体", 6.6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.ucMeter14.InsideRoundColor = System.Drawing.Color.Red;
-            this.ucMeter14.Location = new System.Drawing.Point(641, 26);
+            this.ucMeter14.Location = new System.Drawing.Point(644, 26);
             this.ucMeter14.MaxValue = new decimal(new int[] {
             100,
             0,
@@ -1871,7 +1871,7 @@
             this.ucMeter13.PointerColor = System.Drawing.Color.Red;
             this.ucMeter13.ScaleColor = System.Drawing.Color.Red;
             this.ucMeter13.ScaleValueColor = System.Drawing.Color.Black;
-            this.ucMeter13.Size = new System.Drawing.Size(120, 70);
+            this.ucMeter13.Size = new System.Drawing.Size(109, 70);
             this.ucMeter13.SplitCount = 4;
             this.ucMeter13.TabIndex = 10;
             this.ucMeter13.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(77)))), ((int)(((byte)(59)))));
@@ -2025,28 +2025,28 @@
             this.ucTimeLine1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.ucTimeLine1.DetailsFont = new System.Drawing.Font("微软雅黑", 10F);
             this.ucTimeLine1.DetailsForcolor = System.Drawing.Color.FromArgb(((int)(((byte)(144)))), ((int)(((byte)(147)))), ((int)(((byte)(153)))));
-            timeLineItem13.Details = "2020年04月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem1.Details = "2020年04月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem13.Title = "2020年04月";
-            timeLineItem14.Details = "2020年05月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem1.Title = "2020年04月";
+            timeLineItem2.Details = "2020年05月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem14.Title = "2020年05月";
-            timeLineItem15.Details = "2020年06月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem2.Title = "2020年05月";
+            timeLineItem3.Details = "2020年06月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem15.Title = "2020年06月";
-            timeLineItem16.Details = "2020年07月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem3.Title = "2020年06月";
+            timeLineItem4.Details = "2020年07月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem16.Title = "2020年07月";
+            timeLineItem4.Title = "2020年07月";
             this.ucTimeLine1.Items = new HZH_Controls.Controls.TimeLineItem[] {
-        timeLineItem13,
-        timeLineItem14,
-        timeLineItem15,
-        timeLineItem16};
+        timeLineItem1,
+        timeLineItem2,
+        timeLineItem3,
+        timeLineItem4};
             this.ucTimeLine1.LineColor = System.Drawing.Color.Red;
-            this.ucTimeLine1.Location = new System.Drawing.Point(1522, 655);
+            this.ucTimeLine1.Location = new System.Drawing.Point(1536, 655);
             this.ucTimeLine1.Name = "ucTimeLine1";
             this.ucTimeLine1.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
-            this.ucTimeLine1.Size = new System.Drawing.Size(386, 421);
+            this.ucTimeLine1.Size = new System.Drawing.Size(372, 421);
             this.ucTimeLine1.TabIndex = 19;
             this.ucTimeLine1.TitleFont = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.ucTimeLine1.TitleForcolor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(49)))), ((int)(((byte)(51)))));
@@ -2065,7 +2065,7 @@
             this.panel6.Controls.Add(this.textBox6);
             this.panel6.Controls.Add(this.textBox5);
             this.panel6.Controls.Add(this.textBox4);
-            this.panel6.Location = new System.Drawing.Point(768, 174);
+            this.panel6.Location = new System.Drawing.Point(796, 174);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(416, 164);
             this.panel6.TabIndex = 20;
@@ -2252,10 +2252,316 @@
             this.panel7.Controls.Add(this.textBox28);
             this.panel7.Controls.Add(this.label69);
             this.panel7.Controls.Add(this.textBox27);
-            this.panel7.Location = new System.Drawing.Point(768, 660);
+            this.panel7.Location = new System.Drawing.Point(796, 660);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(748, 194);
             this.panel7.TabIndex = 24;
+            // 
+            // label149
+            // 
+            this.label149.AutoSize = true;
+            this.label149.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label149.Location = new System.Drawing.Point(585, 130);
+            this.label149.Name = "label149";
+            this.label149.Size = new System.Drawing.Size(69, 19);
+            this.label149.TabIndex = 38;
+            this.label149.Text = "硅锰13";
+            // 
+            // textBox39
+            // 
+            this.textBox39.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox39.Location = new System.Drawing.Point(567, 153);
+            this.textBox39.Name = "textBox39";
+            this.textBox39.Size = new System.Drawing.Size(106, 30);
+            this.textBox39.TabIndex = 37;
+            // 
+            // label150
+            // 
+            this.label150.AutoSize = true;
+            this.label150.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label150.Location = new System.Drawing.Point(458, 130);
+            this.label150.Name = "label150";
+            this.label150.Size = new System.Drawing.Size(69, 19);
+            this.label150.TabIndex = 36;
+            this.label150.Text = "硅锰13";
+            // 
+            // textBox40
+            // 
+            this.textBox40.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox40.Location = new System.Drawing.Point(440, 153);
+            this.textBox40.Name = "textBox40";
+            this.textBox40.Size = new System.Drawing.Size(106, 30);
+            this.textBox40.TabIndex = 35;
+            // 
+            // label151
+            // 
+            this.label151.AutoSize = true;
+            this.label151.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label151.Location = new System.Drawing.Point(334, 130);
+            this.label151.Name = "label151";
+            this.label151.Size = new System.Drawing.Size(69, 19);
+            this.label151.TabIndex = 34;
+            this.label151.Text = "硅锰13";
+            // 
+            // textBox41
+            // 
+            this.textBox41.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox41.Location = new System.Drawing.Point(316, 153);
+            this.textBox41.Name = "textBox41";
+            this.textBox41.Size = new System.Drawing.Size(106, 30);
+            this.textBox41.TabIndex = 33;
+            // 
+            // label152
+            // 
+            this.label152.AutoSize = true;
+            this.label152.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label152.Location = new System.Drawing.Point(210, 130);
+            this.label152.Name = "label152";
+            this.label152.Size = new System.Drawing.Size(69, 19);
+            this.label152.TabIndex = 32;
+            this.label152.Text = "硅锰13";
+            // 
+            // textBox42
+            // 
+            this.textBox42.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox42.Location = new System.Drawing.Point(192, 153);
+            this.textBox42.Name = "textBox42";
+            this.textBox42.Size = new System.Drawing.Size(106, 30);
+            this.textBox42.TabIndex = 31;
+            // 
+            // label153
+            // 
+            this.label153.AutoSize = true;
+            this.label153.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label153.Location = new System.Drawing.Point(89, 130);
+            this.label153.Name = "label153";
+            this.label153.Size = new System.Drawing.Size(69, 19);
+            this.label153.TabIndex = 30;
+            this.label153.Text = "硅锰13";
+            // 
+            // textBox43
+            // 
+            this.textBox43.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox43.Location = new System.Drawing.Point(71, 153);
+            this.textBox43.Name = "textBox43";
+            this.textBox43.Size = new System.Drawing.Size(106, 30);
+            this.textBox43.TabIndex = 29;
+            // 
+            // label79
+            // 
+            this.label79.AutoSize = true;
+            this.label79.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label79.Location = new System.Drawing.Point(651, 70);
+            this.label79.Name = "label79";
+            this.label79.Size = new System.Drawing.Size(69, 19);
+            this.label79.TabIndex = 28;
+            this.label79.Text = "硅锰13";
+            // 
+            // textBox37
+            // 
+            this.textBox37.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox37.Location = new System.Drawing.Point(633, 93);
+            this.textBox37.Name = "textBox37";
+            this.textBox37.Size = new System.Drawing.Size(106, 30);
+            this.textBox37.TabIndex = 27;
+            // 
+            // label80
+            // 
+            this.label80.AutoSize = true;
+            this.label80.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label80.Location = new System.Drawing.Point(651, 9);
+            this.label80.Name = "label80";
+            this.label80.Size = new System.Drawing.Size(69, 19);
+            this.label80.TabIndex = 26;
+            this.label80.Text = "硅锰13";
+            // 
+            // textBox38
+            // 
+            this.textBox38.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox38.Location = new System.Drawing.Point(633, 32);
+            this.textBox38.Name = "textBox38";
+            this.textBox38.Size = new System.Drawing.Size(106, 30);
+            this.textBox38.TabIndex = 25;
+            // 
+            // label77
+            // 
+            this.label77.AutoSize = true;
+            this.label77.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label77.Location = new System.Drawing.Point(524, 70);
+            this.label77.Name = "label77";
+            this.label77.Size = new System.Drawing.Size(69, 19);
+            this.label77.TabIndex = 24;
+            this.label77.Text = "硅锰13";
+            // 
+            // textBox35
+            // 
+            this.textBox35.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox35.Location = new System.Drawing.Point(506, 93);
+            this.textBox35.Name = "textBox35";
+            this.textBox35.Size = new System.Drawing.Size(106, 30);
+            this.textBox35.TabIndex = 23;
+            // 
+            // label78
+            // 
+            this.label78.AutoSize = true;
+            this.label78.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label78.Location = new System.Drawing.Point(524, 9);
+            this.label78.Name = "label78";
+            this.label78.Size = new System.Drawing.Size(69, 19);
+            this.label78.TabIndex = 22;
+            this.label78.Text = "硅锰13";
+            // 
+            // textBox36
+            // 
+            this.textBox36.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox36.Location = new System.Drawing.Point(506, 32);
+            this.textBox36.Name = "textBox36";
+            this.textBox36.Size = new System.Drawing.Size(106, 30);
+            this.textBox36.TabIndex = 21;
+            // 
+            // label75
+            // 
+            this.label75.AutoSize = true;
+            this.label75.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label75.Location = new System.Drawing.Point(397, 70);
+            this.label75.Name = "label75";
+            this.label75.Size = new System.Drawing.Size(69, 19);
+            this.label75.TabIndex = 20;
+            this.label75.Text = "硅锰13";
+            // 
+            // textBox33
+            // 
+            this.textBox33.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox33.Location = new System.Drawing.Point(379, 93);
+            this.textBox33.Name = "textBox33";
+            this.textBox33.Size = new System.Drawing.Size(106, 30);
+            this.textBox33.TabIndex = 19;
+            // 
+            // label76
+            // 
+            this.label76.AutoSize = true;
+            this.label76.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label76.Location = new System.Drawing.Point(397, 9);
+            this.label76.Name = "label76";
+            this.label76.Size = new System.Drawing.Size(69, 19);
+            this.label76.TabIndex = 18;
+            this.label76.Text = "硅锰13";
+            // 
+            // textBox34
+            // 
+            this.textBox34.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox34.Location = new System.Drawing.Point(379, 32);
+            this.textBox34.Name = "textBox34";
+            this.textBox34.Size = new System.Drawing.Size(106, 30);
+            this.textBox34.TabIndex = 17;
+            // 
+            // label73
+            // 
+            this.label73.AutoSize = true;
+            this.label73.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label73.Location = new System.Drawing.Point(273, 70);
+            this.label73.Name = "label73";
+            this.label73.Size = new System.Drawing.Size(69, 19);
+            this.label73.TabIndex = 16;
+            this.label73.Text = "硅锰13";
+            // 
+            // textBox31
+            // 
+            this.textBox31.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox31.Location = new System.Drawing.Point(255, 93);
+            this.textBox31.Name = "textBox31";
+            this.textBox31.Size = new System.Drawing.Size(106, 30);
+            this.textBox31.TabIndex = 15;
+            // 
+            // label74
+            // 
+            this.label74.AutoSize = true;
+            this.label74.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label74.Location = new System.Drawing.Point(273, 9);
+            this.label74.Name = "label74";
+            this.label74.Size = new System.Drawing.Size(69, 19);
+            this.label74.TabIndex = 14;
+            this.label74.Text = "硅锰13";
+            // 
+            // textBox32
+            // 
+            this.textBox32.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox32.Location = new System.Drawing.Point(255, 32);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.Size = new System.Drawing.Size(106, 30);
+            this.textBox32.TabIndex = 13;
+            // 
+            // label71
+            // 
+            this.label71.AutoSize = true;
+            this.label71.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label71.Location = new System.Drawing.Point(149, 70);
+            this.label71.Name = "label71";
+            this.label71.Size = new System.Drawing.Size(69, 19);
+            this.label71.TabIndex = 12;
+            this.label71.Text = "硅锰13";
+            // 
+            // textBox29
+            // 
+            this.textBox29.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox29.Location = new System.Drawing.Point(131, 93);
+            this.textBox29.Name = "textBox29";
+            this.textBox29.Size = new System.Drawing.Size(106, 30);
+            this.textBox29.TabIndex = 11;
+            // 
+            // label72
+            // 
+            this.label72.AutoSize = true;
+            this.label72.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label72.Location = new System.Drawing.Point(149, 9);
+            this.label72.Name = "label72";
+            this.label72.Size = new System.Drawing.Size(69, 19);
+            this.label72.TabIndex = 10;
+            this.label72.Text = "硅锰13";
+            // 
+            // textBox30
+            // 
+            this.textBox30.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox30.Location = new System.Drawing.Point(131, 32);
+            this.textBox30.Name = "textBox30";
+            this.textBox30.Size = new System.Drawing.Size(106, 30);
+            this.textBox30.TabIndex = 9;
+            // 
+            // label70
+            // 
+            this.label70.AutoSize = true;
+            this.label70.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label70.Location = new System.Drawing.Point(28, 70);
+            this.label70.Name = "label70";
+            this.label70.Size = new System.Drawing.Size(69, 19);
+            this.label70.TabIndex = 8;
+            this.label70.Text = "硅锰13";
+            // 
+            // textBox28
+            // 
+            this.textBox28.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox28.Location = new System.Drawing.Point(10, 93);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.Size = new System.Drawing.Size(106, 30);
+            this.textBox28.TabIndex = 7;
+            // 
+            // label69
+            // 
+            this.label69.AutoSize = true;
+            this.label69.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label69.Location = new System.Drawing.Point(28, 9);
+            this.label69.Name = "label69";
+            this.label69.Size = new System.Drawing.Size(69, 19);
+            this.label69.TabIndex = 6;
+            this.label69.Text = "硅锰13";
+            // 
+            // textBox27
+            // 
+            this.textBox27.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox27.Location = new System.Drawing.Point(10, 32);
+            this.textBox27.Name = "textBox27";
+            this.textBox27.Size = new System.Drawing.Size(106, 30);
+            this.textBox27.TabIndex = 0;
             // 
             // ucledData1
             // 
@@ -2342,8 +2648,184 @@
             this.panel9.Controls.Add(this.comboBox1);
             this.panel9.Location = new System.Drawing.Point(11, 717);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(749, 137);
+            this.panel9.Size = new System.Drawing.Size(779, 137);
             this.panel9.TabIndex = 28;
+            // 
+            // textBox26
+            // 
+            this.textBox26.BackColor = System.Drawing.Color.Aqua;
+            this.textBox26.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox26.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox26.Location = new System.Drawing.Point(592, 96);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.Size = new System.Drawing.Size(66, 30);
+            this.textBox26.TabIndex = 50;
+            this.textBox26.Text = "0.009";
+            // 
+            // label68
+            // 
+            this.label68.AutoSize = true;
+            this.label68.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label68.ForeColor = System.Drawing.Color.Red;
+            this.label68.Location = new System.Drawing.Point(613, 69);
+            this.label68.Name = "label68";
+            this.label68.Size = new System.Drawing.Size(38, 25);
+            this.label68.TabIndex = 49;
+            this.label68.Text = "Ca";
+            // 
+            // textBox25
+            // 
+            this.textBox25.BackColor = System.Drawing.Color.Aqua;
+            this.textBox25.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox25.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox25.Location = new System.Drawing.Point(517, 96);
+            this.textBox25.Name = "textBox25";
+            this.textBox25.Size = new System.Drawing.Size(66, 30);
+            this.textBox25.TabIndex = 48;
+            this.textBox25.Text = "0.009";
+            // 
+            // label67
+            // 
+            this.label67.AutoSize = true;
+            this.label67.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label67.ForeColor = System.Drawing.Color.Red;
+            this.label67.Location = new System.Drawing.Point(538, 69);
+            this.label67.Name = "label67";
+            this.label67.Size = new System.Drawing.Size(38, 25);
+            this.label67.TabIndex = 47;
+            this.label67.Text = "Al";
+            // 
+            // textBox24
+            // 
+            this.textBox24.BackColor = System.Drawing.Color.Aqua;
+            this.textBox24.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox24.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox24.Location = new System.Drawing.Point(445, 96);
+            this.textBox24.Name = "textBox24";
+            this.textBox24.Size = new System.Drawing.Size(66, 30);
+            this.textBox24.TabIndex = 46;
+            this.textBox24.Text = "0.009";
+            // 
+            // label66
+            // 
+            this.label66.AutoSize = true;
+            this.label66.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label66.ForeColor = System.Drawing.Color.Red;
+            this.label66.Location = new System.Drawing.Point(466, 69);
+            this.label66.Name = "label66";
+            this.label66.Size = new System.Drawing.Size(38, 25);
+            this.label66.TabIndex = 45;
+            this.label66.Text = "Cr";
+            // 
+            // textBox23
+            // 
+            this.textBox23.BackColor = System.Drawing.Color.Aqua;
+            this.textBox23.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox23.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox23.Location = new System.Drawing.Point(373, 96);
+            this.textBox23.Name = "textBox23";
+            this.textBox23.Size = new System.Drawing.Size(66, 30);
+            this.textBox23.TabIndex = 44;
+            this.textBox23.Text = "0.009";
+            // 
+            // label65
+            // 
+            this.label65.AutoSize = true;
+            this.label65.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label65.ForeColor = System.Drawing.Color.Red;
+            this.label65.Location = new System.Drawing.Point(394, 69);
+            this.label65.Name = "label65";
+            this.label65.Size = new System.Drawing.Size(25, 25);
+            this.label65.TabIndex = 43;
+            this.label65.Text = "S";
+            // 
+            // textBox22
+            // 
+            this.textBox22.BackColor = System.Drawing.Color.Aqua;
+            this.textBox22.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox22.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox22.Location = new System.Drawing.Point(301, 96);
+            this.textBox22.Name = "textBox22";
+            this.textBox22.Size = new System.Drawing.Size(66, 30);
+            this.textBox22.TabIndex = 42;
+            this.textBox22.Text = "0.009";
+            // 
+            // label64
+            // 
+            this.label64.AutoSize = true;
+            this.label64.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label64.ForeColor = System.Drawing.Color.Red;
+            this.label64.Location = new System.Drawing.Point(322, 69);
+            this.label64.Name = "label64";
+            this.label64.Size = new System.Drawing.Size(25, 25);
+            this.label64.TabIndex = 41;
+            this.label64.Text = "C";
+            // 
+            // textBox21
+            // 
+            this.textBox21.BackColor = System.Drawing.Color.Aqua;
+            this.textBox21.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox21.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox21.Location = new System.Drawing.Point(229, 96);
+            this.textBox21.Name = "textBox21";
+            this.textBox21.Size = new System.Drawing.Size(66, 30);
+            this.textBox21.TabIndex = 40;
+            this.textBox21.Text = "0.009";
+            // 
+            // label63
+            // 
+            this.label63.AutoSize = true;
+            this.label63.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label63.ForeColor = System.Drawing.Color.Red;
+            this.label63.Location = new System.Drawing.Point(250, 69);
+            this.label63.Name = "label63";
+            this.label63.Size = new System.Drawing.Size(25, 25);
+            this.label63.TabIndex = 39;
+            this.label63.Text = "P";
+            // 
+            // textBox20
+            // 
+            this.textBox20.BackColor = System.Drawing.Color.Aqua;
+            this.textBox20.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox20.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox20.Location = new System.Drawing.Point(157, 96);
+            this.textBox20.Name = "textBox20";
+            this.textBox20.Size = new System.Drawing.Size(66, 30);
+            this.textBox20.TabIndex = 38;
+            this.textBox20.Text = "0.009";
+            // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label62.ForeColor = System.Drawing.Color.Red;
+            this.label62.Location = new System.Drawing.Point(178, 69);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(38, 25);
+            this.label62.TabIndex = 37;
+            this.label62.Text = "Mn";
+            // 
+            // textBox19
+            // 
+            this.textBox19.BackColor = System.Drawing.Color.Aqua;
+            this.textBox19.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox19.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox19.Location = new System.Drawing.Point(85, 96);
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(66, 30);
+            this.textBox19.TabIndex = 36;
+            this.textBox19.Text = "0.009";
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label61.ForeColor = System.Drawing.Color.Red;
+            this.label61.Location = new System.Drawing.Point(106, 69);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(38, 25);
+            this.label61.TabIndex = 35;
+            this.label61.Text = "Si";
             // 
             // textBox18
             // 
@@ -2453,398 +2935,6 @@
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(144, 30);
             this.textBox14.TabIndex = 24;
-            // 
-            // textBox19
-            // 
-            this.textBox19.BackColor = System.Drawing.Color.Aqua;
-            this.textBox19.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox19.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox19.Location = new System.Drawing.Point(85, 96);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(66, 30);
-            this.textBox19.TabIndex = 36;
-            this.textBox19.Text = "0.009";
-            // 
-            // label61
-            // 
-            this.label61.AutoSize = true;
-            this.label61.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label61.ForeColor = System.Drawing.Color.Red;
-            this.label61.Location = new System.Drawing.Point(106, 69);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(38, 25);
-            this.label61.TabIndex = 35;
-            this.label61.Text = "Si";
-            // 
-            // textBox20
-            // 
-            this.textBox20.BackColor = System.Drawing.Color.Aqua;
-            this.textBox20.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox20.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox20.Location = new System.Drawing.Point(157, 96);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(66, 30);
-            this.textBox20.TabIndex = 38;
-            this.textBox20.Text = "0.009";
-            // 
-            // label62
-            // 
-            this.label62.AutoSize = true;
-            this.label62.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label62.ForeColor = System.Drawing.Color.Red;
-            this.label62.Location = new System.Drawing.Point(178, 69);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(38, 25);
-            this.label62.TabIndex = 37;
-            this.label62.Text = "Mn";
-            // 
-            // textBox21
-            // 
-            this.textBox21.BackColor = System.Drawing.Color.Aqua;
-            this.textBox21.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox21.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox21.Location = new System.Drawing.Point(229, 96);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(66, 30);
-            this.textBox21.TabIndex = 40;
-            this.textBox21.Text = "0.009";
-            // 
-            // label63
-            // 
-            this.label63.AutoSize = true;
-            this.label63.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label63.ForeColor = System.Drawing.Color.Red;
-            this.label63.Location = new System.Drawing.Point(250, 69);
-            this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(25, 25);
-            this.label63.TabIndex = 39;
-            this.label63.Text = "P";
-            // 
-            // textBox22
-            // 
-            this.textBox22.BackColor = System.Drawing.Color.Aqua;
-            this.textBox22.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox22.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox22.Location = new System.Drawing.Point(301, 96);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(66, 30);
-            this.textBox22.TabIndex = 42;
-            this.textBox22.Text = "0.009";
-            // 
-            // label64
-            // 
-            this.label64.AutoSize = true;
-            this.label64.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label64.ForeColor = System.Drawing.Color.Red;
-            this.label64.Location = new System.Drawing.Point(322, 69);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(25, 25);
-            this.label64.TabIndex = 41;
-            this.label64.Text = "C";
-            // 
-            // textBox23
-            // 
-            this.textBox23.BackColor = System.Drawing.Color.Aqua;
-            this.textBox23.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox23.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox23.Location = new System.Drawing.Point(373, 96);
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(66, 30);
-            this.textBox23.TabIndex = 44;
-            this.textBox23.Text = "0.009";
-            // 
-            // label65
-            // 
-            this.label65.AutoSize = true;
-            this.label65.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label65.ForeColor = System.Drawing.Color.Red;
-            this.label65.Location = new System.Drawing.Point(394, 69);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(25, 25);
-            this.label65.TabIndex = 43;
-            this.label65.Text = "S";
-            // 
-            // textBox24
-            // 
-            this.textBox24.BackColor = System.Drawing.Color.Aqua;
-            this.textBox24.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox24.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox24.Location = new System.Drawing.Point(445, 96);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(66, 30);
-            this.textBox24.TabIndex = 46;
-            this.textBox24.Text = "0.009";
-            // 
-            // label66
-            // 
-            this.label66.AutoSize = true;
-            this.label66.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label66.ForeColor = System.Drawing.Color.Red;
-            this.label66.Location = new System.Drawing.Point(466, 69);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(38, 25);
-            this.label66.TabIndex = 45;
-            this.label66.Text = "Cr";
-            // 
-            // textBox25
-            // 
-            this.textBox25.BackColor = System.Drawing.Color.Aqua;
-            this.textBox25.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox25.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox25.Location = new System.Drawing.Point(517, 96);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(66, 30);
-            this.textBox25.TabIndex = 48;
-            this.textBox25.Text = "0.009";
-            // 
-            // label67
-            // 
-            this.label67.AutoSize = true;
-            this.label67.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label67.ForeColor = System.Drawing.Color.Red;
-            this.label67.Location = new System.Drawing.Point(538, 69);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(38, 25);
-            this.label67.TabIndex = 47;
-            this.label67.Text = "Al";
-            // 
-            // textBox26
-            // 
-            this.textBox26.BackColor = System.Drawing.Color.Aqua;
-            this.textBox26.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox26.ForeColor = System.Drawing.Color.DarkBlue;
-            this.textBox26.Location = new System.Drawing.Point(592, 96);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(66, 30);
-            this.textBox26.TabIndex = 50;
-            this.textBox26.Text = "0.009";
-            // 
-            // label68
-            // 
-            this.label68.AutoSize = true;
-            this.label68.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label68.ForeColor = System.Drawing.Color.Red;
-            this.label68.Location = new System.Drawing.Point(613, 69);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(38, 25);
-            this.label68.TabIndex = 49;
-            this.label68.Text = "Ca";
-            // 
-            // textBox27
-            // 
-            this.textBox27.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox27.Location = new System.Drawing.Point(10, 32);
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(106, 30);
-            this.textBox27.TabIndex = 0;
-            // 
-            // label69
-            // 
-            this.label69.AutoSize = true;
-            this.label69.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label69.Location = new System.Drawing.Point(28, 9);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(69, 19);
-            this.label69.TabIndex = 6;
-            this.label69.Text = "硅锰13";
-            // 
-            // label70
-            // 
-            this.label70.AutoSize = true;
-            this.label70.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label70.Location = new System.Drawing.Point(28, 70);
-            this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(69, 19);
-            this.label70.TabIndex = 8;
-            this.label70.Text = "硅锰13";
-            // 
-            // textBox28
-            // 
-            this.textBox28.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox28.Location = new System.Drawing.Point(10, 93);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(106, 30);
-            this.textBox28.TabIndex = 7;
-            // 
-            // label71
-            // 
-            this.label71.AutoSize = true;
-            this.label71.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label71.Location = new System.Drawing.Point(149, 70);
-            this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(69, 19);
-            this.label71.TabIndex = 12;
-            this.label71.Text = "硅锰13";
-            // 
-            // textBox29
-            // 
-            this.textBox29.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox29.Location = new System.Drawing.Point(131, 93);
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(106, 30);
-            this.textBox29.TabIndex = 11;
-            // 
-            // label72
-            // 
-            this.label72.AutoSize = true;
-            this.label72.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label72.Location = new System.Drawing.Point(149, 9);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(69, 19);
-            this.label72.TabIndex = 10;
-            this.label72.Text = "硅锰13";
-            // 
-            // textBox30
-            // 
-            this.textBox30.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox30.Location = new System.Drawing.Point(131, 32);
-            this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(106, 30);
-            this.textBox30.TabIndex = 9;
-            // 
-            // label73
-            // 
-            this.label73.AutoSize = true;
-            this.label73.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label73.Location = new System.Drawing.Point(273, 70);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(69, 19);
-            this.label73.TabIndex = 16;
-            this.label73.Text = "硅锰13";
-            // 
-            // textBox31
-            // 
-            this.textBox31.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox31.Location = new System.Drawing.Point(255, 93);
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(106, 30);
-            this.textBox31.TabIndex = 15;
-            // 
-            // label74
-            // 
-            this.label74.AutoSize = true;
-            this.label74.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label74.Location = new System.Drawing.Point(273, 9);
-            this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(69, 19);
-            this.label74.TabIndex = 14;
-            this.label74.Text = "硅锰13";
-            // 
-            // textBox32
-            // 
-            this.textBox32.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox32.Location = new System.Drawing.Point(255, 32);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(106, 30);
-            this.textBox32.TabIndex = 13;
-            // 
-            // label75
-            // 
-            this.label75.AutoSize = true;
-            this.label75.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label75.Location = new System.Drawing.Point(397, 70);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(69, 19);
-            this.label75.TabIndex = 20;
-            this.label75.Text = "硅锰13";
-            // 
-            // textBox33
-            // 
-            this.textBox33.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox33.Location = new System.Drawing.Point(379, 93);
-            this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(106, 30);
-            this.textBox33.TabIndex = 19;
-            // 
-            // label76
-            // 
-            this.label76.AutoSize = true;
-            this.label76.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label76.Location = new System.Drawing.Point(397, 9);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(69, 19);
-            this.label76.TabIndex = 18;
-            this.label76.Text = "硅锰13";
-            // 
-            // textBox34
-            // 
-            this.textBox34.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox34.Location = new System.Drawing.Point(379, 32);
-            this.textBox34.Name = "textBox34";
-            this.textBox34.Size = new System.Drawing.Size(106, 30);
-            this.textBox34.TabIndex = 17;
-            // 
-            // label77
-            // 
-            this.label77.AutoSize = true;
-            this.label77.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label77.Location = new System.Drawing.Point(524, 70);
-            this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(69, 19);
-            this.label77.TabIndex = 24;
-            this.label77.Text = "硅锰13";
-            // 
-            // textBox35
-            // 
-            this.textBox35.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox35.Location = new System.Drawing.Point(506, 93);
-            this.textBox35.Name = "textBox35";
-            this.textBox35.Size = new System.Drawing.Size(106, 30);
-            this.textBox35.TabIndex = 23;
-            // 
-            // label78
-            // 
-            this.label78.AutoSize = true;
-            this.label78.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label78.Location = new System.Drawing.Point(524, 9);
-            this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(69, 19);
-            this.label78.TabIndex = 22;
-            this.label78.Text = "硅锰13";
-            // 
-            // textBox36
-            // 
-            this.textBox36.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox36.Location = new System.Drawing.Point(506, 32);
-            this.textBox36.Name = "textBox36";
-            this.textBox36.Size = new System.Drawing.Size(106, 30);
-            this.textBox36.TabIndex = 21;
-            // 
-            // label79
-            // 
-            this.label79.AutoSize = true;
-            this.label79.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label79.Location = new System.Drawing.Point(651, 70);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(69, 19);
-            this.label79.TabIndex = 28;
-            this.label79.Text = "硅锰13";
-            // 
-            // textBox37
-            // 
-            this.textBox37.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox37.Location = new System.Drawing.Point(633, 93);
-            this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(106, 30);
-            this.textBox37.TabIndex = 27;
-            // 
-            // label80
-            // 
-            this.label80.AutoSize = true;
-            this.label80.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label80.Location = new System.Drawing.Point(651, 9);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(69, 19);
-            this.label80.TabIndex = 26;
-            this.label80.Text = "硅锰13";
-            // 
-            // textBox38
-            // 
-            this.textBox38.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox38.Location = new System.Drawing.Point(633, 32);
-            this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(106, 30);
-            this.textBox38.TabIndex = 25;
             // 
             // ucSplitLine_H1
             // 
@@ -2997,1038 +3087,8 @@
             this.panel10.Location = new System.Drawing.Point(9, 860);
             this.panel10.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(1505, 218);
+            this.panel10.Size = new System.Drawing.Size(1535, 218);
             this.panel10.TabIndex = 34;
-            // 
-            // label81
-            // 
-            this.label81.AutoSize = true;
-            this.label81.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label81.Location = new System.Drawing.Point(11, 6);
-            this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(79, 15);
-            this.label81.TabIndex = 47;
-            this.label81.Text = "炉盖低位1";
-            // 
-            // ucSplitLine_H16
-            // 
-            this.ucSplitLine_H16.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H16.Location = new System.Drawing.Point(17, 84);
-            this.ucSplitLine_H16.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
-            this.ucSplitLine_H16.Name = "ucSplitLine_H16";
-            this.ucSplitLine_H16.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H16.TabIndex = 48;
-            this.ucSplitLine_H16.TabStop = false;
-            // 
-            // ucSplitLine_H17
-            // 
-            this.ucSplitLine_H17.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H17.Location = new System.Drawing.Point(17, 138);
-            this.ucSplitLine_H17.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
-            this.ucSplitLine_H17.Name = "ucSplitLine_H17";
-            this.ucSplitLine_H17.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H17.TabIndex = 49;
-            this.ucSplitLine_H17.TabStop = false;
-            // 
-            // ucSplitLine_H18
-            // 
-            this.ucSplitLine_H18.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H18.Location = new System.Drawing.Point(17, 191);
-            this.ucSplitLine_H18.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
-            this.ucSplitLine_H18.Name = "ucSplitLine_H18";
-            this.ucSplitLine_H18.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H18.TabIndex = 50;
-            this.ucSplitLine_H18.TabStop = false;
-            // 
-            // label82
-            // 
-            this.label82.AutoSize = true;
-            this.label82.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label82.Location = new System.Drawing.Point(3, 60);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(99, 19);
-            this.label82.TabIndex = 51;
-            this.label82.Text = "炉盖低位1";
-            // 
-            // label83
-            // 
-            this.label83.AutoSize = true;
-            this.label83.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label83.Location = new System.Drawing.Point(3, 115);
-            this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(99, 19);
-            this.label83.TabIndex = 52;
-            this.label83.Text = "炉盖低位1";
-            // 
-            // label84
-            // 
-            this.label84.AutoSize = true;
-            this.label84.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label84.Location = new System.Drawing.Point(2, 167);
-            this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(99, 19);
-            this.label84.TabIndex = 53;
-            this.label84.Text = "炉盖低位1";
-            // 
-            // ucSplitLine_H2
-            // 
-            this.ucSplitLine_H2.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H2.Location = new System.Drawing.Point(102, 29);
-            this.ucSplitLine_H2.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H2.Name = "ucSplitLine_H2";
-            this.ucSplitLine_H2.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H2.TabIndex = 54;
-            this.ucSplitLine_H2.TabStop = false;
-            // 
-            // ucSplitLine_H3
-            // 
-            this.ucSplitLine_H3.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H3.Location = new System.Drawing.Point(187, 29);
-            this.ucSplitLine_H3.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H3.Name = "ucSplitLine_H3";
-            this.ucSplitLine_H3.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H3.TabIndex = 55;
-            this.ucSplitLine_H3.TabStop = false;
-            // 
-            // ucSplitLine_H4
-            // 
-            this.ucSplitLine_H4.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H4.Location = new System.Drawing.Point(272, 29);
-            this.ucSplitLine_H4.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H4.Name = "ucSplitLine_H4";
-            this.ucSplitLine_H4.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H4.TabIndex = 56;
-            this.ucSplitLine_H4.TabStop = false;
-            // 
-            // ucSplitLine_H5
-            // 
-            this.ucSplitLine_H5.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H5.Location = new System.Drawing.Point(357, 29);
-            this.ucSplitLine_H5.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H5.Name = "ucSplitLine_H5";
-            this.ucSplitLine_H5.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H5.TabIndex = 57;
-            this.ucSplitLine_H5.TabStop = false;
-            // 
-            // ucSplitLine_H6
-            // 
-            this.ucSplitLine_H6.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H6.Location = new System.Drawing.Point(443, 29);
-            this.ucSplitLine_H6.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H6.Name = "ucSplitLine_H6";
-            this.ucSplitLine_H6.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H6.TabIndex = 58;
-            this.ucSplitLine_H6.TabStop = false;
-            // 
-            // ucSplitLine_H7
-            // 
-            this.ucSplitLine_H7.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H7.Location = new System.Drawing.Point(528, 29);
-            this.ucSplitLine_H7.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H7.Name = "ucSplitLine_H7";
-            this.ucSplitLine_H7.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H7.TabIndex = 59;
-            this.ucSplitLine_H7.TabStop = false;
-            // 
-            // ucSplitLine_H8
-            // 
-            this.ucSplitLine_H8.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H8.Location = new System.Drawing.Point(613, 29);
-            this.ucSplitLine_H8.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H8.Name = "ucSplitLine_H8";
-            this.ucSplitLine_H8.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H8.TabIndex = 60;
-            this.ucSplitLine_H8.TabStop = false;
-            // 
-            // ucSplitLine_H9
-            // 
-            this.ucSplitLine_H9.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H9.Location = new System.Drawing.Point(698, 29);
-            this.ucSplitLine_H9.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H9.Name = "ucSplitLine_H9";
-            this.ucSplitLine_H9.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H9.TabIndex = 61;
-            this.ucSplitLine_H9.TabStop = false;
-            // 
-            // ucSplitLine_H10
-            // 
-            this.ucSplitLine_H10.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H10.Location = new System.Drawing.Point(783, 29);
-            this.ucSplitLine_H10.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H10.Name = "ucSplitLine_H10";
-            this.ucSplitLine_H10.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H10.TabIndex = 62;
-            this.ucSplitLine_H10.TabStop = false;
-            // 
-            // ucSplitLine_H11
-            // 
-            this.ucSplitLine_H11.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H11.Location = new System.Drawing.Point(868, 29);
-            this.ucSplitLine_H11.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H11.Name = "ucSplitLine_H11";
-            this.ucSplitLine_H11.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H11.TabIndex = 63;
-            this.ucSplitLine_H11.TabStop = false;
-            // 
-            // ucSplitLine_H12
-            // 
-            this.ucSplitLine_H12.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H12.Location = new System.Drawing.Point(953, 29);
-            this.ucSplitLine_H12.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H12.Name = "ucSplitLine_H12";
-            this.ucSplitLine_H12.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H12.TabIndex = 64;
-            this.ucSplitLine_H12.TabStop = false;
-            // 
-            // ucSplitLine_H13
-            // 
-            this.ucSplitLine_H13.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H13.Location = new System.Drawing.Point(1038, 29);
-            this.ucSplitLine_H13.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H13.Name = "ucSplitLine_H13";
-            this.ucSplitLine_H13.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H13.TabIndex = 65;
-            this.ucSplitLine_H13.TabStop = false;
-            // 
-            // ucSplitLine_H14
-            // 
-            this.ucSplitLine_H14.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H14.Location = new System.Drawing.Point(1123, 29);
-            this.ucSplitLine_H14.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H14.Name = "ucSplitLine_H14";
-            this.ucSplitLine_H14.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H14.TabIndex = 66;
-            this.ucSplitLine_H14.TabStop = false;
-            // 
-            // ucSplitLine_H15
-            // 
-            this.ucSplitLine_H15.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H15.Location = new System.Drawing.Point(1208, 29);
-            this.ucSplitLine_H15.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H15.Name = "ucSplitLine_H15";
-            this.ucSplitLine_H15.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H15.TabIndex = 67;
-            this.ucSplitLine_H15.TabStop = false;
-            // 
-            // ucSplitLine_H19
-            // 
-            this.ucSplitLine_H19.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H19.Location = new System.Drawing.Point(1293, 29);
-            this.ucSplitLine_H19.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H19.Name = "ucSplitLine_H19";
-            this.ucSplitLine_H19.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H19.TabIndex = 68;
-            this.ucSplitLine_H19.TabStop = false;
-            // 
-            // ucSplitLine_H20
-            // 
-            this.ucSplitLine_H20.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H20.Location = new System.Drawing.Point(1378, 29);
-            this.ucSplitLine_H20.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H20.Name = "ucSplitLine_H20";
-            this.ucSplitLine_H20.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H20.TabIndex = 69;
-            this.ucSplitLine_H20.TabStop = false;
-            // 
-            // label85
-            // 
-            this.label85.AutoSize = true;
-            this.label85.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label85.Location = new System.Drawing.Point(99, 6);
-            this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(79, 15);
-            this.label85.TabIndex = 70;
-            this.label85.Text = "炉盖顶位1";
-            // 
-            // label86
-            // 
-            this.label86.AutoSize = true;
-            this.label86.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label86.Location = new System.Drawing.Point(184, 6);
-            this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(79, 15);
-            this.label86.TabIndex = 71;
-            this.label86.Text = "炉盖1降下";
-            // 
-            // label87
-            // 
-            this.label87.AutoSize = true;
-            this.label87.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label87.Location = new System.Drawing.Point(269, 6);
-            this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(79, 15);
-            this.label87.TabIndex = 72;
-            this.label87.Text = "降下到位1";
-            // 
-            // label88
-            // 
-            this.label88.AutoSize = true;
-            this.label88.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label88.Location = new System.Drawing.Point(354, 6);
-            this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(79, 15);
-            this.label88.TabIndex = 73;
-            this.label88.Text = "炉盖低位2";
-            // 
-            // label89
-            // 
-            this.label89.AutoSize = true;
-            this.label89.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label89.Location = new System.Drawing.Point(440, 6);
-            this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(79, 15);
-            this.label89.TabIndex = 74;
-            this.label89.Text = "炉盖顶位2";
-            // 
-            // label90
-            // 
-            this.label90.AutoSize = true;
-            this.label90.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label90.Location = new System.Drawing.Point(525, 6);
-            this.label90.Name = "label90";
-            this.label90.Size = new System.Drawing.Size(79, 15);
-            this.label90.TabIndex = 75;
-            this.label90.Text = "炉盖2降下";
-            // 
-            // label91
-            // 
-            this.label91.AutoSize = true;
-            this.label91.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label91.Location = new System.Drawing.Point(610, 6);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(79, 15);
-            this.label91.TabIndex = 76;
-            this.label91.Text = "降下到位2";
-            // 
-            // label92
-            // 
-            this.label92.AutoSize = true;
-            this.label92.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label92.Location = new System.Drawing.Point(695, 6);
-            this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(79, 15);
-            this.label92.TabIndex = 77;
-            this.label92.Text = "炉门打开1";
-            // 
-            // label93
-            // 
-            this.label93.AutoSize = true;
-            this.label93.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label93.Location = new System.Drawing.Point(780, 6);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(79, 15);
-            this.label93.TabIndex = 78;
-            this.label93.Text = "炉门打开2";
-            // 
-            // label94
-            // 
-            this.label94.AutoSize = true;
-            this.label94.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label94.Location = new System.Drawing.Point(865, 6);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(71, 15);
-            this.label94.TabIndex = 79;
-            this.label94.Text = "旋转锁定";
-            // 
-            // label95
-            // 
-            this.label95.AutoSize = true;
-            this.label95.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label95.Location = new System.Drawing.Point(948, 6);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(71, 15);
-            this.label95.TabIndex = 80;
-            this.label95.Text = "旋转解锁";
-            // 
-            // label96
-            // 
-            this.label96.AutoSize = true;
-            this.label96.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label96.Location = new System.Drawing.Point(1033, 6);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(71, 15);
-            this.label96.TabIndex = 81;
-            this.label96.Text = "加料条件";
-            // 
-            // label97
-            // 
-            this.label97.AutoSize = true;
-            this.label97.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label97.Location = new System.Drawing.Point(1120, 6);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(71, 15);
-            this.label97.TabIndex = 82;
-            this.label97.Text = "加料急停";
-            // 
-            // label98
-            // 
-            this.label98.AutoSize = true;
-            this.label98.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label98.Location = new System.Drawing.Point(1205, 6);
-            this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(79, 15);
-            this.label98.TabIndex = 83;
-            this.label98.Text = "炉盖低位1";
-            // 
-            // label99
-            // 
-            this.label99.AutoSize = true;
-            this.label99.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label99.Location = new System.Drawing.Point(1290, 6);
-            this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(79, 15);
-            this.label99.TabIndex = 84;
-            this.label99.Text = "炉盖低位1";
-            // 
-            // label100
-            // 
-            this.label100.AutoSize = true;
-            this.label100.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label100.Location = new System.Drawing.Point(1375, 6);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(79, 15);
-            this.label100.TabIndex = 85;
-            this.label100.Text = "炉盖低位1";
-            // 
-            // label101
-            // 
-            this.label101.AutoSize = true;
-            this.label101.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label101.Location = new System.Drawing.Point(1375, 61);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(79, 15);
-            this.label101.TabIndex = 117;
-            this.label101.Text = "炉盖低位1";
-            // 
-            // label102
-            // 
-            this.label102.AutoSize = true;
-            this.label102.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label102.Location = new System.Drawing.Point(1290, 61);
-            this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(79, 15);
-            this.label102.TabIndex = 116;
-            this.label102.Text = "炉盖低位1";
-            // 
-            // label103
-            // 
-            this.label103.AutoSize = true;
-            this.label103.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label103.Location = new System.Drawing.Point(1205, 61);
-            this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(79, 15);
-            this.label103.TabIndex = 115;
-            this.label103.Text = "炉盖低位1";
-            // 
-            // label104
-            // 
-            this.label104.AutoSize = true;
-            this.label104.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label104.Location = new System.Drawing.Point(1120, 61);
-            this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(71, 15);
-            this.label104.TabIndex = 114;
-            this.label104.Text = "加料急停";
-            // 
-            // label105
-            // 
-            this.label105.AutoSize = true;
-            this.label105.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label105.Location = new System.Drawing.Point(1033, 61);
-            this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(71, 15);
-            this.label105.TabIndex = 113;
-            this.label105.Text = "加料条件";
-            // 
-            // label106
-            // 
-            this.label106.AutoSize = true;
-            this.label106.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label106.Location = new System.Drawing.Point(948, 61);
-            this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(71, 15);
-            this.label106.TabIndex = 112;
-            this.label106.Text = "旋转解锁";
-            // 
-            // label107
-            // 
-            this.label107.AutoSize = true;
-            this.label107.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label107.Location = new System.Drawing.Point(865, 61);
-            this.label107.Name = "label107";
-            this.label107.Size = new System.Drawing.Size(71, 15);
-            this.label107.TabIndex = 111;
-            this.label107.Text = "旋转锁定";
-            // 
-            // label108
-            // 
-            this.label108.AutoSize = true;
-            this.label108.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label108.Location = new System.Drawing.Point(780, 61);
-            this.label108.Name = "label108";
-            this.label108.Size = new System.Drawing.Size(79, 15);
-            this.label108.TabIndex = 110;
-            this.label108.Text = "炉门打开2";
-            // 
-            // label109
-            // 
-            this.label109.AutoSize = true;
-            this.label109.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label109.Location = new System.Drawing.Point(695, 61);
-            this.label109.Name = "label109";
-            this.label109.Size = new System.Drawing.Size(79, 15);
-            this.label109.TabIndex = 109;
-            this.label109.Text = "炉门打开1";
-            // 
-            // label110
-            // 
-            this.label110.AutoSize = true;
-            this.label110.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label110.Location = new System.Drawing.Point(610, 61);
-            this.label110.Name = "label110";
-            this.label110.Size = new System.Drawing.Size(79, 15);
-            this.label110.TabIndex = 108;
-            this.label110.Text = "降下到位2";
-            // 
-            // label111
-            // 
-            this.label111.AutoSize = true;
-            this.label111.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label111.Location = new System.Drawing.Point(525, 61);
-            this.label111.Name = "label111";
-            this.label111.Size = new System.Drawing.Size(79, 15);
-            this.label111.TabIndex = 107;
-            this.label111.Text = "炉盖2降下";
-            // 
-            // label112
-            // 
-            this.label112.AutoSize = true;
-            this.label112.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label112.Location = new System.Drawing.Point(440, 61);
-            this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(79, 15);
-            this.label112.TabIndex = 106;
-            this.label112.Text = "炉盖顶位2";
-            // 
-            // label113
-            // 
-            this.label113.AutoSize = true;
-            this.label113.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label113.Location = new System.Drawing.Point(354, 61);
-            this.label113.Name = "label113";
-            this.label113.Size = new System.Drawing.Size(79, 15);
-            this.label113.TabIndex = 105;
-            this.label113.Text = "炉盖低位2";
-            // 
-            // label114
-            // 
-            this.label114.AutoSize = true;
-            this.label114.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label114.Location = new System.Drawing.Point(269, 61);
-            this.label114.Name = "label114";
-            this.label114.Size = new System.Drawing.Size(79, 15);
-            this.label114.TabIndex = 104;
-            this.label114.Text = "降下到位1";
-            // 
-            // label115
-            // 
-            this.label115.AutoSize = true;
-            this.label115.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label115.Location = new System.Drawing.Point(184, 61);
-            this.label115.Name = "label115";
-            this.label115.Size = new System.Drawing.Size(79, 15);
-            this.label115.TabIndex = 103;
-            this.label115.Text = "炉盖1降下";
-            // 
-            // label116
-            // 
-            this.label116.AutoSize = true;
-            this.label116.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label116.Location = new System.Drawing.Point(99, 61);
-            this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(79, 15);
-            this.label116.TabIndex = 102;
-            this.label116.Text = "炉盖顶位1";
-            // 
-            // ucSplitLine_H21
-            // 
-            this.ucSplitLine_H21.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H21.Location = new System.Drawing.Point(1378, 84);
-            this.ucSplitLine_H21.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H21.Name = "ucSplitLine_H21";
-            this.ucSplitLine_H21.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H21.TabIndex = 101;
-            this.ucSplitLine_H21.TabStop = false;
-            // 
-            // ucSplitLine_H22
-            // 
-            this.ucSplitLine_H22.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H22.Location = new System.Drawing.Point(1293, 84);
-            this.ucSplitLine_H22.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H22.Name = "ucSplitLine_H22";
-            this.ucSplitLine_H22.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H22.TabIndex = 100;
-            this.ucSplitLine_H22.TabStop = false;
-            // 
-            // ucSplitLine_H23
-            // 
-            this.ucSplitLine_H23.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H23.Location = new System.Drawing.Point(1208, 84);
-            this.ucSplitLine_H23.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H23.Name = "ucSplitLine_H23";
-            this.ucSplitLine_H23.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H23.TabIndex = 99;
-            this.ucSplitLine_H23.TabStop = false;
-            // 
-            // ucSplitLine_H24
-            // 
-            this.ucSplitLine_H24.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H24.Location = new System.Drawing.Point(1123, 84);
-            this.ucSplitLine_H24.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H24.Name = "ucSplitLine_H24";
-            this.ucSplitLine_H24.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H24.TabIndex = 98;
-            this.ucSplitLine_H24.TabStop = false;
-            // 
-            // ucSplitLine_H25
-            // 
-            this.ucSplitLine_H25.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H25.Location = new System.Drawing.Point(1038, 84);
-            this.ucSplitLine_H25.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H25.Name = "ucSplitLine_H25";
-            this.ucSplitLine_H25.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H25.TabIndex = 97;
-            this.ucSplitLine_H25.TabStop = false;
-            // 
-            // ucSplitLine_H26
-            // 
-            this.ucSplitLine_H26.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H26.Location = new System.Drawing.Point(953, 84);
-            this.ucSplitLine_H26.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H26.Name = "ucSplitLine_H26";
-            this.ucSplitLine_H26.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H26.TabIndex = 96;
-            this.ucSplitLine_H26.TabStop = false;
-            // 
-            // ucSplitLine_H27
-            // 
-            this.ucSplitLine_H27.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H27.Location = new System.Drawing.Point(868, 84);
-            this.ucSplitLine_H27.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H27.Name = "ucSplitLine_H27";
-            this.ucSplitLine_H27.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H27.TabIndex = 95;
-            this.ucSplitLine_H27.TabStop = false;
-            // 
-            // ucSplitLine_H28
-            // 
-            this.ucSplitLine_H28.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H28.Location = new System.Drawing.Point(783, 84);
-            this.ucSplitLine_H28.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H28.Name = "ucSplitLine_H28";
-            this.ucSplitLine_H28.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H28.TabIndex = 94;
-            this.ucSplitLine_H28.TabStop = false;
-            // 
-            // ucSplitLine_H29
-            // 
-            this.ucSplitLine_H29.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H29.Location = new System.Drawing.Point(698, 84);
-            this.ucSplitLine_H29.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H29.Name = "ucSplitLine_H29";
-            this.ucSplitLine_H29.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H29.TabIndex = 93;
-            this.ucSplitLine_H29.TabStop = false;
-            // 
-            // ucSplitLine_H30
-            // 
-            this.ucSplitLine_H30.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H30.Location = new System.Drawing.Point(613, 84);
-            this.ucSplitLine_H30.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H30.Name = "ucSplitLine_H30";
-            this.ucSplitLine_H30.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H30.TabIndex = 92;
-            this.ucSplitLine_H30.TabStop = false;
-            // 
-            // ucSplitLine_H31
-            // 
-            this.ucSplitLine_H31.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H31.Location = new System.Drawing.Point(528, 84);
-            this.ucSplitLine_H31.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H31.Name = "ucSplitLine_H31";
-            this.ucSplitLine_H31.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H31.TabIndex = 91;
-            this.ucSplitLine_H31.TabStop = false;
-            // 
-            // ucSplitLine_H32
-            // 
-            this.ucSplitLine_H32.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H32.Location = new System.Drawing.Point(443, 84);
-            this.ucSplitLine_H32.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H32.Name = "ucSplitLine_H32";
-            this.ucSplitLine_H32.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H32.TabIndex = 90;
-            this.ucSplitLine_H32.TabStop = false;
-            // 
-            // ucSplitLine_H33
-            // 
-            this.ucSplitLine_H33.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H33.Location = new System.Drawing.Point(357, 84);
-            this.ucSplitLine_H33.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H33.Name = "ucSplitLine_H33";
-            this.ucSplitLine_H33.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H33.TabIndex = 89;
-            this.ucSplitLine_H33.TabStop = false;
-            // 
-            // ucSplitLine_H34
-            // 
-            this.ucSplitLine_H34.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H34.Location = new System.Drawing.Point(272, 84);
-            this.ucSplitLine_H34.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H34.Name = "ucSplitLine_H34";
-            this.ucSplitLine_H34.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H34.TabIndex = 88;
-            this.ucSplitLine_H34.TabStop = false;
-            // 
-            // ucSplitLine_H35
-            // 
-            this.ucSplitLine_H35.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H35.Location = new System.Drawing.Point(187, 84);
-            this.ucSplitLine_H35.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H35.Name = "ucSplitLine_H35";
-            this.ucSplitLine_H35.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H35.TabIndex = 87;
-            this.ucSplitLine_H35.TabStop = false;
-            // 
-            // ucSplitLine_H36
-            // 
-            this.ucSplitLine_H36.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H36.Location = new System.Drawing.Point(102, 84);
-            this.ucSplitLine_H36.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H36.Name = "ucSplitLine_H36";
-            this.ucSplitLine_H36.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H36.TabIndex = 86;
-            this.ucSplitLine_H36.TabStop = false;
-            // 
-            // label117
-            // 
-            this.label117.AutoSize = true;
-            this.label117.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label117.Location = new System.Drawing.Point(1375, 115);
-            this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(79, 15);
-            this.label117.TabIndex = 149;
-            this.label117.Text = "炉盖低位1";
-            // 
-            // label118
-            // 
-            this.label118.AutoSize = true;
-            this.label118.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label118.Location = new System.Drawing.Point(1290, 115);
-            this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(79, 15);
-            this.label118.TabIndex = 148;
-            this.label118.Text = "炉盖低位1";
-            // 
-            // label119
-            // 
-            this.label119.AutoSize = true;
-            this.label119.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label119.Location = new System.Drawing.Point(1205, 115);
-            this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(79, 15);
-            this.label119.TabIndex = 147;
-            this.label119.Text = "炉盖低位1";
-            // 
-            // label120
-            // 
-            this.label120.AutoSize = true;
-            this.label120.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label120.Location = new System.Drawing.Point(1120, 115);
-            this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(71, 15);
-            this.label120.TabIndex = 146;
-            this.label120.Text = "加料急停";
-            // 
-            // label121
-            // 
-            this.label121.AutoSize = true;
-            this.label121.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label121.Location = new System.Drawing.Point(1033, 115);
-            this.label121.Name = "label121";
-            this.label121.Size = new System.Drawing.Size(71, 15);
-            this.label121.TabIndex = 145;
-            this.label121.Text = "加料条件";
-            // 
-            // label122
-            // 
-            this.label122.AutoSize = true;
-            this.label122.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label122.Location = new System.Drawing.Point(948, 115);
-            this.label122.Name = "label122";
-            this.label122.Size = new System.Drawing.Size(71, 15);
-            this.label122.TabIndex = 144;
-            this.label122.Text = "旋转解锁";
-            // 
-            // label123
-            // 
-            this.label123.AutoSize = true;
-            this.label123.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label123.Location = new System.Drawing.Point(865, 115);
-            this.label123.Name = "label123";
-            this.label123.Size = new System.Drawing.Size(71, 15);
-            this.label123.TabIndex = 143;
-            this.label123.Text = "旋转锁定";
-            // 
-            // label124
-            // 
-            this.label124.AutoSize = true;
-            this.label124.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label124.Location = new System.Drawing.Point(780, 115);
-            this.label124.Name = "label124";
-            this.label124.Size = new System.Drawing.Size(79, 15);
-            this.label124.TabIndex = 142;
-            this.label124.Text = "炉门打开2";
-            // 
-            // label125
-            // 
-            this.label125.AutoSize = true;
-            this.label125.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label125.Location = new System.Drawing.Point(695, 115);
-            this.label125.Name = "label125";
-            this.label125.Size = new System.Drawing.Size(79, 15);
-            this.label125.TabIndex = 141;
-            this.label125.Text = "炉门打开1";
-            // 
-            // label126
-            // 
-            this.label126.AutoSize = true;
-            this.label126.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label126.Location = new System.Drawing.Point(610, 115);
-            this.label126.Name = "label126";
-            this.label126.Size = new System.Drawing.Size(79, 15);
-            this.label126.TabIndex = 140;
-            this.label126.Text = "降下到位2";
-            // 
-            // label127
-            // 
-            this.label127.AutoSize = true;
-            this.label127.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label127.Location = new System.Drawing.Point(525, 115);
-            this.label127.Name = "label127";
-            this.label127.Size = new System.Drawing.Size(79, 15);
-            this.label127.TabIndex = 139;
-            this.label127.Text = "炉盖2降下";
-            // 
-            // label128
-            // 
-            this.label128.AutoSize = true;
-            this.label128.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label128.Location = new System.Drawing.Point(440, 115);
-            this.label128.Name = "label128";
-            this.label128.Size = new System.Drawing.Size(79, 15);
-            this.label128.TabIndex = 138;
-            this.label128.Text = "炉盖顶位2";
-            // 
-            // label129
-            // 
-            this.label129.AutoSize = true;
-            this.label129.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label129.Location = new System.Drawing.Point(354, 115);
-            this.label129.Name = "label129";
-            this.label129.Size = new System.Drawing.Size(79, 15);
-            this.label129.TabIndex = 137;
-            this.label129.Text = "炉盖低位2";
-            // 
-            // label130
-            // 
-            this.label130.AutoSize = true;
-            this.label130.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label130.Location = new System.Drawing.Point(269, 115);
-            this.label130.Name = "label130";
-            this.label130.Size = new System.Drawing.Size(79, 15);
-            this.label130.TabIndex = 136;
-            this.label130.Text = "降下到位1";
-            // 
-            // label131
-            // 
-            this.label131.AutoSize = true;
-            this.label131.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label131.Location = new System.Drawing.Point(184, 115);
-            this.label131.Name = "label131";
-            this.label131.Size = new System.Drawing.Size(79, 15);
-            this.label131.TabIndex = 135;
-            this.label131.Text = "炉盖1降下";
-            // 
-            // label132
-            // 
-            this.label132.AutoSize = true;
-            this.label132.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label132.Location = new System.Drawing.Point(99, 115);
-            this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(79, 15);
-            this.label132.TabIndex = 134;
-            this.label132.Text = "炉盖顶位1";
-            // 
-            // ucSplitLine_H37
-            // 
-            this.ucSplitLine_H37.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H37.Location = new System.Drawing.Point(1378, 138);
-            this.ucSplitLine_H37.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H37.Name = "ucSplitLine_H37";
-            this.ucSplitLine_H37.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H37.TabIndex = 133;
-            this.ucSplitLine_H37.TabStop = false;
-            // 
-            // ucSplitLine_H38
-            // 
-            this.ucSplitLine_H38.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H38.Location = new System.Drawing.Point(1293, 138);
-            this.ucSplitLine_H38.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H38.Name = "ucSplitLine_H38";
-            this.ucSplitLine_H38.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H38.TabIndex = 132;
-            this.ucSplitLine_H38.TabStop = false;
-            // 
-            // ucSplitLine_H39
-            // 
-            this.ucSplitLine_H39.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H39.Location = new System.Drawing.Point(1208, 138);
-            this.ucSplitLine_H39.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H39.Name = "ucSplitLine_H39";
-            this.ucSplitLine_H39.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H39.TabIndex = 131;
-            this.ucSplitLine_H39.TabStop = false;
-            // 
-            // ucSplitLine_H40
-            // 
-            this.ucSplitLine_H40.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H40.Location = new System.Drawing.Point(1123, 138);
-            this.ucSplitLine_H40.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H40.Name = "ucSplitLine_H40";
-            this.ucSplitLine_H40.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H40.TabIndex = 130;
-            this.ucSplitLine_H40.TabStop = false;
-            // 
-            // ucSplitLine_H41
-            // 
-            this.ucSplitLine_H41.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H41.Location = new System.Drawing.Point(1038, 138);
-            this.ucSplitLine_H41.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H41.Name = "ucSplitLine_H41";
-            this.ucSplitLine_H41.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H41.TabIndex = 129;
-            this.ucSplitLine_H41.TabStop = false;
-            // 
-            // ucSplitLine_H42
-            // 
-            this.ucSplitLine_H42.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H42.Location = new System.Drawing.Point(953, 138);
-            this.ucSplitLine_H42.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H42.Name = "ucSplitLine_H42";
-            this.ucSplitLine_H42.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H42.TabIndex = 128;
-            this.ucSplitLine_H42.TabStop = false;
-            // 
-            // ucSplitLine_H43
-            // 
-            this.ucSplitLine_H43.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H43.Location = new System.Drawing.Point(868, 138);
-            this.ucSplitLine_H43.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H43.Name = "ucSplitLine_H43";
-            this.ucSplitLine_H43.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H43.TabIndex = 127;
-            this.ucSplitLine_H43.TabStop = false;
-            // 
-            // ucSplitLine_H44
-            // 
-            this.ucSplitLine_H44.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H44.Location = new System.Drawing.Point(783, 138);
-            this.ucSplitLine_H44.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H44.Name = "ucSplitLine_H44";
-            this.ucSplitLine_H44.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H44.TabIndex = 126;
-            this.ucSplitLine_H44.TabStop = false;
-            // 
-            // ucSplitLine_H45
-            // 
-            this.ucSplitLine_H45.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H45.Location = new System.Drawing.Point(698, 138);
-            this.ucSplitLine_H45.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H45.Name = "ucSplitLine_H45";
-            this.ucSplitLine_H45.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H45.TabIndex = 125;
-            this.ucSplitLine_H45.TabStop = false;
-            // 
-            // ucSplitLine_H46
-            // 
-            this.ucSplitLine_H46.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H46.Location = new System.Drawing.Point(613, 138);
-            this.ucSplitLine_H46.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H46.Name = "ucSplitLine_H46";
-            this.ucSplitLine_H46.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H46.TabIndex = 124;
-            this.ucSplitLine_H46.TabStop = false;
-            // 
-            // ucSplitLine_H47
-            // 
-            this.ucSplitLine_H47.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H47.Location = new System.Drawing.Point(528, 138);
-            this.ucSplitLine_H47.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H47.Name = "ucSplitLine_H47";
-            this.ucSplitLine_H47.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H47.TabIndex = 123;
-            this.ucSplitLine_H47.TabStop = false;
-            // 
-            // ucSplitLine_H48
-            // 
-            this.ucSplitLine_H48.BackColor = System.Drawing.Color.Green;
-            this.ucSplitLine_H48.Location = new System.Drawing.Point(443, 138);
-            this.ucSplitLine_H48.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H48.Name = "ucSplitLine_H48";
-            this.ucSplitLine_H48.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H48.TabIndex = 122;
-            this.ucSplitLine_H48.TabStop = false;
-            // 
-            // ucSplitLine_H49
-            // 
-            this.ucSplitLine_H49.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H49.Location = new System.Drawing.Point(357, 138);
-            this.ucSplitLine_H49.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H49.Name = "ucSplitLine_H49";
-            this.ucSplitLine_H49.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H49.TabIndex = 121;
-            this.ucSplitLine_H49.TabStop = false;
-            // 
-            // ucSplitLine_H50
-            // 
-            this.ucSplitLine_H50.BackColor = System.Drawing.Color.Red;
-            this.ucSplitLine_H50.Location = new System.Drawing.Point(272, 138);
-            this.ucSplitLine_H50.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H50.Name = "ucSplitLine_H50";
-            this.ucSplitLine_H50.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H50.TabIndex = 120;
-            this.ucSplitLine_H50.TabStop = false;
-            // 
-            // ucSplitLine_H51
-            // 
-            this.ucSplitLine_H51.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H51.Location = new System.Drawing.Point(187, 138);
-            this.ucSplitLine_H51.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H51.Name = "ucSplitLine_H51";
-            this.ucSplitLine_H51.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H51.TabIndex = 119;
-            this.ucSplitLine_H51.TabStop = false;
-            // 
-            // ucSplitLine_H52
-            // 
-            this.ucSplitLine_H52.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ucSplitLine_H52.Location = new System.Drawing.Point(102, 138);
-            this.ucSplitLine_H52.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.ucSplitLine_H52.Name = "ucSplitLine_H52";
-            this.ucSplitLine_H52.Size = new System.Drawing.Size(65, 25);
-            this.ucSplitLine_H52.TabIndex = 118;
-            this.ucSplitLine_H52.TabStop = false;
             // 
             // label133
             // 
@@ -4350,95 +3410,1035 @@
             this.ucSplitLine_H68.TabIndex = 150;
             this.ucSplitLine_H68.TabStop = false;
             // 
-            // label149
+            // label117
             // 
-            this.label149.AutoSize = true;
-            this.label149.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label149.Location = new System.Drawing.Point(585, 130);
-            this.label149.Name = "label149";
-            this.label149.Size = new System.Drawing.Size(69, 19);
-            this.label149.TabIndex = 38;
-            this.label149.Text = "硅锰13";
+            this.label117.AutoSize = true;
+            this.label117.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label117.Location = new System.Drawing.Point(1375, 115);
+            this.label117.Name = "label117";
+            this.label117.Size = new System.Drawing.Size(79, 15);
+            this.label117.TabIndex = 149;
+            this.label117.Text = "炉盖低位1";
             // 
-            // textBox39
+            // label118
             // 
-            this.textBox39.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox39.Location = new System.Drawing.Point(567, 153);
-            this.textBox39.Name = "textBox39";
-            this.textBox39.Size = new System.Drawing.Size(106, 30);
-            this.textBox39.TabIndex = 37;
+            this.label118.AutoSize = true;
+            this.label118.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label118.Location = new System.Drawing.Point(1290, 115);
+            this.label118.Name = "label118";
+            this.label118.Size = new System.Drawing.Size(79, 15);
+            this.label118.TabIndex = 148;
+            this.label118.Text = "炉盖低位1";
             // 
-            // label150
+            // label119
             // 
-            this.label150.AutoSize = true;
-            this.label150.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label150.Location = new System.Drawing.Point(458, 130);
-            this.label150.Name = "label150";
-            this.label150.Size = new System.Drawing.Size(69, 19);
-            this.label150.TabIndex = 36;
-            this.label150.Text = "硅锰13";
+            this.label119.AutoSize = true;
+            this.label119.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label119.Location = new System.Drawing.Point(1205, 115);
+            this.label119.Name = "label119";
+            this.label119.Size = new System.Drawing.Size(79, 15);
+            this.label119.TabIndex = 147;
+            this.label119.Text = "炉盖低位1";
             // 
-            // textBox40
+            // label120
             // 
-            this.textBox40.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox40.Location = new System.Drawing.Point(440, 153);
-            this.textBox40.Name = "textBox40";
-            this.textBox40.Size = new System.Drawing.Size(106, 30);
-            this.textBox40.TabIndex = 35;
+            this.label120.AutoSize = true;
+            this.label120.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label120.Location = new System.Drawing.Point(1120, 115);
+            this.label120.Name = "label120";
+            this.label120.Size = new System.Drawing.Size(71, 15);
+            this.label120.TabIndex = 146;
+            this.label120.Text = "加料急停";
             // 
-            // label151
+            // label121
             // 
-            this.label151.AutoSize = true;
-            this.label151.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label151.Location = new System.Drawing.Point(334, 130);
-            this.label151.Name = "label151";
-            this.label151.Size = new System.Drawing.Size(69, 19);
-            this.label151.TabIndex = 34;
-            this.label151.Text = "硅锰13";
+            this.label121.AutoSize = true;
+            this.label121.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label121.Location = new System.Drawing.Point(1033, 115);
+            this.label121.Name = "label121";
+            this.label121.Size = new System.Drawing.Size(71, 15);
+            this.label121.TabIndex = 145;
+            this.label121.Text = "加料条件";
             // 
-            // textBox41
+            // label122
             // 
-            this.textBox41.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox41.Location = new System.Drawing.Point(316, 153);
-            this.textBox41.Name = "textBox41";
-            this.textBox41.Size = new System.Drawing.Size(106, 30);
-            this.textBox41.TabIndex = 33;
+            this.label122.AutoSize = true;
+            this.label122.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label122.Location = new System.Drawing.Point(948, 115);
+            this.label122.Name = "label122";
+            this.label122.Size = new System.Drawing.Size(71, 15);
+            this.label122.TabIndex = 144;
+            this.label122.Text = "旋转解锁";
             // 
-            // label152
+            // label123
             // 
-            this.label152.AutoSize = true;
-            this.label152.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label152.Location = new System.Drawing.Point(210, 130);
-            this.label152.Name = "label152";
-            this.label152.Size = new System.Drawing.Size(69, 19);
-            this.label152.TabIndex = 32;
-            this.label152.Text = "硅锰13";
+            this.label123.AutoSize = true;
+            this.label123.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label123.Location = new System.Drawing.Point(865, 115);
+            this.label123.Name = "label123";
+            this.label123.Size = new System.Drawing.Size(71, 15);
+            this.label123.TabIndex = 143;
+            this.label123.Text = "旋转锁定";
             // 
-            // textBox42
+            // label124
             // 
-            this.textBox42.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox42.Location = new System.Drawing.Point(192, 153);
-            this.textBox42.Name = "textBox42";
-            this.textBox42.Size = new System.Drawing.Size(106, 30);
-            this.textBox42.TabIndex = 31;
+            this.label124.AutoSize = true;
+            this.label124.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label124.Location = new System.Drawing.Point(780, 115);
+            this.label124.Name = "label124";
+            this.label124.Size = new System.Drawing.Size(79, 15);
+            this.label124.TabIndex = 142;
+            this.label124.Text = "炉门打开2";
             // 
-            // label153
+            // label125
             // 
-            this.label153.AutoSize = true;
-            this.label153.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label153.Location = new System.Drawing.Point(89, 130);
-            this.label153.Name = "label153";
-            this.label153.Size = new System.Drawing.Size(69, 19);
-            this.label153.TabIndex = 30;
-            this.label153.Text = "硅锰13";
+            this.label125.AutoSize = true;
+            this.label125.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label125.Location = new System.Drawing.Point(695, 115);
+            this.label125.Name = "label125";
+            this.label125.Size = new System.Drawing.Size(79, 15);
+            this.label125.TabIndex = 141;
+            this.label125.Text = "炉门打开1";
             // 
-            // textBox43
+            // label126
             // 
-            this.textBox43.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.textBox43.Location = new System.Drawing.Point(71, 153);
-            this.textBox43.Name = "textBox43";
-            this.textBox43.Size = new System.Drawing.Size(106, 30);
-            this.textBox43.TabIndex = 29;
+            this.label126.AutoSize = true;
+            this.label126.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label126.Location = new System.Drawing.Point(610, 115);
+            this.label126.Name = "label126";
+            this.label126.Size = new System.Drawing.Size(79, 15);
+            this.label126.TabIndex = 140;
+            this.label126.Text = "降下到位2";
+            // 
+            // label127
+            // 
+            this.label127.AutoSize = true;
+            this.label127.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label127.Location = new System.Drawing.Point(525, 115);
+            this.label127.Name = "label127";
+            this.label127.Size = new System.Drawing.Size(79, 15);
+            this.label127.TabIndex = 139;
+            this.label127.Text = "炉盖2降下";
+            // 
+            // label128
+            // 
+            this.label128.AutoSize = true;
+            this.label128.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label128.Location = new System.Drawing.Point(440, 115);
+            this.label128.Name = "label128";
+            this.label128.Size = new System.Drawing.Size(79, 15);
+            this.label128.TabIndex = 138;
+            this.label128.Text = "炉盖顶位2";
+            // 
+            // label129
+            // 
+            this.label129.AutoSize = true;
+            this.label129.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label129.Location = new System.Drawing.Point(354, 115);
+            this.label129.Name = "label129";
+            this.label129.Size = new System.Drawing.Size(79, 15);
+            this.label129.TabIndex = 137;
+            this.label129.Text = "炉盖低位2";
+            // 
+            // label130
+            // 
+            this.label130.AutoSize = true;
+            this.label130.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label130.Location = new System.Drawing.Point(269, 115);
+            this.label130.Name = "label130";
+            this.label130.Size = new System.Drawing.Size(79, 15);
+            this.label130.TabIndex = 136;
+            this.label130.Text = "降下到位1";
+            // 
+            // label131
+            // 
+            this.label131.AutoSize = true;
+            this.label131.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label131.Location = new System.Drawing.Point(184, 115);
+            this.label131.Name = "label131";
+            this.label131.Size = new System.Drawing.Size(79, 15);
+            this.label131.TabIndex = 135;
+            this.label131.Text = "炉盖1降下";
+            // 
+            // label132
+            // 
+            this.label132.AutoSize = true;
+            this.label132.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label132.Location = new System.Drawing.Point(99, 115);
+            this.label132.Name = "label132";
+            this.label132.Size = new System.Drawing.Size(79, 15);
+            this.label132.TabIndex = 134;
+            this.label132.Text = "炉盖顶位1";
+            // 
+            // ucSplitLine_H37
+            // 
+            this.ucSplitLine_H37.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H37.Location = new System.Drawing.Point(1378, 138);
+            this.ucSplitLine_H37.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H37.Name = "ucSplitLine_H37";
+            this.ucSplitLine_H37.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H37.TabIndex = 133;
+            this.ucSplitLine_H37.TabStop = false;
+            // 
+            // ucSplitLine_H38
+            // 
+            this.ucSplitLine_H38.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H38.Location = new System.Drawing.Point(1293, 138);
+            this.ucSplitLine_H38.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H38.Name = "ucSplitLine_H38";
+            this.ucSplitLine_H38.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H38.TabIndex = 132;
+            this.ucSplitLine_H38.TabStop = false;
+            // 
+            // ucSplitLine_H39
+            // 
+            this.ucSplitLine_H39.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H39.Location = new System.Drawing.Point(1208, 138);
+            this.ucSplitLine_H39.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H39.Name = "ucSplitLine_H39";
+            this.ucSplitLine_H39.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H39.TabIndex = 131;
+            this.ucSplitLine_H39.TabStop = false;
+            // 
+            // ucSplitLine_H40
+            // 
+            this.ucSplitLine_H40.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H40.Location = new System.Drawing.Point(1123, 138);
+            this.ucSplitLine_H40.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H40.Name = "ucSplitLine_H40";
+            this.ucSplitLine_H40.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H40.TabIndex = 130;
+            this.ucSplitLine_H40.TabStop = false;
+            // 
+            // ucSplitLine_H41
+            // 
+            this.ucSplitLine_H41.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H41.Location = new System.Drawing.Point(1038, 138);
+            this.ucSplitLine_H41.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H41.Name = "ucSplitLine_H41";
+            this.ucSplitLine_H41.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H41.TabIndex = 129;
+            this.ucSplitLine_H41.TabStop = false;
+            // 
+            // ucSplitLine_H42
+            // 
+            this.ucSplitLine_H42.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H42.Location = new System.Drawing.Point(953, 138);
+            this.ucSplitLine_H42.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H42.Name = "ucSplitLine_H42";
+            this.ucSplitLine_H42.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H42.TabIndex = 128;
+            this.ucSplitLine_H42.TabStop = false;
+            // 
+            // ucSplitLine_H43
+            // 
+            this.ucSplitLine_H43.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H43.Location = new System.Drawing.Point(868, 138);
+            this.ucSplitLine_H43.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H43.Name = "ucSplitLine_H43";
+            this.ucSplitLine_H43.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H43.TabIndex = 127;
+            this.ucSplitLine_H43.TabStop = false;
+            // 
+            // ucSplitLine_H44
+            // 
+            this.ucSplitLine_H44.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H44.Location = new System.Drawing.Point(783, 138);
+            this.ucSplitLine_H44.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H44.Name = "ucSplitLine_H44";
+            this.ucSplitLine_H44.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H44.TabIndex = 126;
+            this.ucSplitLine_H44.TabStop = false;
+            // 
+            // ucSplitLine_H45
+            // 
+            this.ucSplitLine_H45.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H45.Location = new System.Drawing.Point(698, 138);
+            this.ucSplitLine_H45.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H45.Name = "ucSplitLine_H45";
+            this.ucSplitLine_H45.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H45.TabIndex = 125;
+            this.ucSplitLine_H45.TabStop = false;
+            // 
+            // ucSplitLine_H46
+            // 
+            this.ucSplitLine_H46.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H46.Location = new System.Drawing.Point(613, 138);
+            this.ucSplitLine_H46.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H46.Name = "ucSplitLine_H46";
+            this.ucSplitLine_H46.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H46.TabIndex = 124;
+            this.ucSplitLine_H46.TabStop = false;
+            // 
+            // ucSplitLine_H47
+            // 
+            this.ucSplitLine_H47.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H47.Location = new System.Drawing.Point(528, 138);
+            this.ucSplitLine_H47.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H47.Name = "ucSplitLine_H47";
+            this.ucSplitLine_H47.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H47.TabIndex = 123;
+            this.ucSplitLine_H47.TabStop = false;
+            // 
+            // ucSplitLine_H48
+            // 
+            this.ucSplitLine_H48.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H48.Location = new System.Drawing.Point(443, 138);
+            this.ucSplitLine_H48.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H48.Name = "ucSplitLine_H48";
+            this.ucSplitLine_H48.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H48.TabIndex = 122;
+            this.ucSplitLine_H48.TabStop = false;
+            // 
+            // ucSplitLine_H49
+            // 
+            this.ucSplitLine_H49.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H49.Location = new System.Drawing.Point(357, 138);
+            this.ucSplitLine_H49.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H49.Name = "ucSplitLine_H49";
+            this.ucSplitLine_H49.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H49.TabIndex = 121;
+            this.ucSplitLine_H49.TabStop = false;
+            // 
+            // ucSplitLine_H50
+            // 
+            this.ucSplitLine_H50.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H50.Location = new System.Drawing.Point(272, 138);
+            this.ucSplitLine_H50.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H50.Name = "ucSplitLine_H50";
+            this.ucSplitLine_H50.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H50.TabIndex = 120;
+            this.ucSplitLine_H50.TabStop = false;
+            // 
+            // ucSplitLine_H51
+            // 
+            this.ucSplitLine_H51.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H51.Location = new System.Drawing.Point(187, 138);
+            this.ucSplitLine_H51.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H51.Name = "ucSplitLine_H51";
+            this.ucSplitLine_H51.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H51.TabIndex = 119;
+            this.ucSplitLine_H51.TabStop = false;
+            // 
+            // ucSplitLine_H52
+            // 
+            this.ucSplitLine_H52.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H52.Location = new System.Drawing.Point(102, 138);
+            this.ucSplitLine_H52.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H52.Name = "ucSplitLine_H52";
+            this.ucSplitLine_H52.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H52.TabIndex = 118;
+            this.ucSplitLine_H52.TabStop = false;
+            // 
+            // label101
+            // 
+            this.label101.AutoSize = true;
+            this.label101.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label101.Location = new System.Drawing.Point(1375, 61);
+            this.label101.Name = "label101";
+            this.label101.Size = new System.Drawing.Size(79, 15);
+            this.label101.TabIndex = 117;
+            this.label101.Text = "炉盖低位1";
+            // 
+            // label102
+            // 
+            this.label102.AutoSize = true;
+            this.label102.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label102.Location = new System.Drawing.Point(1290, 61);
+            this.label102.Name = "label102";
+            this.label102.Size = new System.Drawing.Size(79, 15);
+            this.label102.TabIndex = 116;
+            this.label102.Text = "炉盖低位1";
+            // 
+            // label103
+            // 
+            this.label103.AutoSize = true;
+            this.label103.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label103.Location = new System.Drawing.Point(1205, 61);
+            this.label103.Name = "label103";
+            this.label103.Size = new System.Drawing.Size(79, 15);
+            this.label103.TabIndex = 115;
+            this.label103.Text = "炉盖低位1";
+            // 
+            // label104
+            // 
+            this.label104.AutoSize = true;
+            this.label104.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label104.Location = new System.Drawing.Point(1120, 61);
+            this.label104.Name = "label104";
+            this.label104.Size = new System.Drawing.Size(71, 15);
+            this.label104.TabIndex = 114;
+            this.label104.Text = "加料急停";
+            // 
+            // label105
+            // 
+            this.label105.AutoSize = true;
+            this.label105.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label105.Location = new System.Drawing.Point(1033, 61);
+            this.label105.Name = "label105";
+            this.label105.Size = new System.Drawing.Size(71, 15);
+            this.label105.TabIndex = 113;
+            this.label105.Text = "加料条件";
+            // 
+            // label106
+            // 
+            this.label106.AutoSize = true;
+            this.label106.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label106.Location = new System.Drawing.Point(948, 61);
+            this.label106.Name = "label106";
+            this.label106.Size = new System.Drawing.Size(71, 15);
+            this.label106.TabIndex = 112;
+            this.label106.Text = "旋转解锁";
+            // 
+            // label107
+            // 
+            this.label107.AutoSize = true;
+            this.label107.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label107.Location = new System.Drawing.Point(865, 61);
+            this.label107.Name = "label107";
+            this.label107.Size = new System.Drawing.Size(71, 15);
+            this.label107.TabIndex = 111;
+            this.label107.Text = "旋转锁定";
+            // 
+            // label108
+            // 
+            this.label108.AutoSize = true;
+            this.label108.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label108.Location = new System.Drawing.Point(780, 61);
+            this.label108.Name = "label108";
+            this.label108.Size = new System.Drawing.Size(79, 15);
+            this.label108.TabIndex = 110;
+            this.label108.Text = "炉门打开2";
+            // 
+            // label109
+            // 
+            this.label109.AutoSize = true;
+            this.label109.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label109.Location = new System.Drawing.Point(695, 61);
+            this.label109.Name = "label109";
+            this.label109.Size = new System.Drawing.Size(79, 15);
+            this.label109.TabIndex = 109;
+            this.label109.Text = "炉门打开1";
+            // 
+            // label110
+            // 
+            this.label110.AutoSize = true;
+            this.label110.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label110.Location = new System.Drawing.Point(610, 61);
+            this.label110.Name = "label110";
+            this.label110.Size = new System.Drawing.Size(79, 15);
+            this.label110.TabIndex = 108;
+            this.label110.Text = "降下到位2";
+            // 
+            // label111
+            // 
+            this.label111.AutoSize = true;
+            this.label111.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label111.Location = new System.Drawing.Point(525, 61);
+            this.label111.Name = "label111";
+            this.label111.Size = new System.Drawing.Size(79, 15);
+            this.label111.TabIndex = 107;
+            this.label111.Text = "炉盖2降下";
+            // 
+            // label112
+            // 
+            this.label112.AutoSize = true;
+            this.label112.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label112.Location = new System.Drawing.Point(440, 61);
+            this.label112.Name = "label112";
+            this.label112.Size = new System.Drawing.Size(79, 15);
+            this.label112.TabIndex = 106;
+            this.label112.Text = "炉盖顶位2";
+            // 
+            // label113
+            // 
+            this.label113.AutoSize = true;
+            this.label113.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label113.Location = new System.Drawing.Point(354, 61);
+            this.label113.Name = "label113";
+            this.label113.Size = new System.Drawing.Size(79, 15);
+            this.label113.TabIndex = 105;
+            this.label113.Text = "炉盖低位2";
+            // 
+            // label114
+            // 
+            this.label114.AutoSize = true;
+            this.label114.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label114.Location = new System.Drawing.Point(269, 61);
+            this.label114.Name = "label114";
+            this.label114.Size = new System.Drawing.Size(79, 15);
+            this.label114.TabIndex = 104;
+            this.label114.Text = "降下到位1";
+            // 
+            // label115
+            // 
+            this.label115.AutoSize = true;
+            this.label115.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label115.Location = new System.Drawing.Point(184, 61);
+            this.label115.Name = "label115";
+            this.label115.Size = new System.Drawing.Size(79, 15);
+            this.label115.TabIndex = 103;
+            this.label115.Text = "炉盖1降下";
+            // 
+            // label116
+            // 
+            this.label116.AutoSize = true;
+            this.label116.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label116.Location = new System.Drawing.Point(99, 61);
+            this.label116.Name = "label116";
+            this.label116.Size = new System.Drawing.Size(79, 15);
+            this.label116.TabIndex = 102;
+            this.label116.Text = "炉盖顶位1";
+            // 
+            // ucSplitLine_H21
+            // 
+            this.ucSplitLine_H21.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H21.Location = new System.Drawing.Point(1378, 84);
+            this.ucSplitLine_H21.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H21.Name = "ucSplitLine_H21";
+            this.ucSplitLine_H21.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H21.TabIndex = 101;
+            this.ucSplitLine_H21.TabStop = false;
+            // 
+            // ucSplitLine_H22
+            // 
+            this.ucSplitLine_H22.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H22.Location = new System.Drawing.Point(1293, 84);
+            this.ucSplitLine_H22.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H22.Name = "ucSplitLine_H22";
+            this.ucSplitLine_H22.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H22.TabIndex = 100;
+            this.ucSplitLine_H22.TabStop = false;
+            // 
+            // ucSplitLine_H23
+            // 
+            this.ucSplitLine_H23.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H23.Location = new System.Drawing.Point(1208, 84);
+            this.ucSplitLine_H23.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H23.Name = "ucSplitLine_H23";
+            this.ucSplitLine_H23.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H23.TabIndex = 99;
+            this.ucSplitLine_H23.TabStop = false;
+            // 
+            // ucSplitLine_H24
+            // 
+            this.ucSplitLine_H24.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H24.Location = new System.Drawing.Point(1123, 84);
+            this.ucSplitLine_H24.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H24.Name = "ucSplitLine_H24";
+            this.ucSplitLine_H24.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H24.TabIndex = 98;
+            this.ucSplitLine_H24.TabStop = false;
+            // 
+            // ucSplitLine_H25
+            // 
+            this.ucSplitLine_H25.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H25.Location = new System.Drawing.Point(1038, 84);
+            this.ucSplitLine_H25.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H25.Name = "ucSplitLine_H25";
+            this.ucSplitLine_H25.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H25.TabIndex = 97;
+            this.ucSplitLine_H25.TabStop = false;
+            // 
+            // ucSplitLine_H26
+            // 
+            this.ucSplitLine_H26.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H26.Location = new System.Drawing.Point(953, 84);
+            this.ucSplitLine_H26.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H26.Name = "ucSplitLine_H26";
+            this.ucSplitLine_H26.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H26.TabIndex = 96;
+            this.ucSplitLine_H26.TabStop = false;
+            // 
+            // ucSplitLine_H27
+            // 
+            this.ucSplitLine_H27.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H27.Location = new System.Drawing.Point(868, 84);
+            this.ucSplitLine_H27.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H27.Name = "ucSplitLine_H27";
+            this.ucSplitLine_H27.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H27.TabIndex = 95;
+            this.ucSplitLine_H27.TabStop = false;
+            // 
+            // ucSplitLine_H28
+            // 
+            this.ucSplitLine_H28.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H28.Location = new System.Drawing.Point(783, 84);
+            this.ucSplitLine_H28.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H28.Name = "ucSplitLine_H28";
+            this.ucSplitLine_H28.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H28.TabIndex = 94;
+            this.ucSplitLine_H28.TabStop = false;
+            // 
+            // ucSplitLine_H29
+            // 
+            this.ucSplitLine_H29.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H29.Location = new System.Drawing.Point(698, 84);
+            this.ucSplitLine_H29.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H29.Name = "ucSplitLine_H29";
+            this.ucSplitLine_H29.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H29.TabIndex = 93;
+            this.ucSplitLine_H29.TabStop = false;
+            // 
+            // ucSplitLine_H30
+            // 
+            this.ucSplitLine_H30.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H30.Location = new System.Drawing.Point(613, 84);
+            this.ucSplitLine_H30.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H30.Name = "ucSplitLine_H30";
+            this.ucSplitLine_H30.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H30.TabIndex = 92;
+            this.ucSplitLine_H30.TabStop = false;
+            // 
+            // ucSplitLine_H31
+            // 
+            this.ucSplitLine_H31.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H31.Location = new System.Drawing.Point(528, 84);
+            this.ucSplitLine_H31.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H31.Name = "ucSplitLine_H31";
+            this.ucSplitLine_H31.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H31.TabIndex = 91;
+            this.ucSplitLine_H31.TabStop = false;
+            // 
+            // ucSplitLine_H32
+            // 
+            this.ucSplitLine_H32.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H32.Location = new System.Drawing.Point(443, 84);
+            this.ucSplitLine_H32.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H32.Name = "ucSplitLine_H32";
+            this.ucSplitLine_H32.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H32.TabIndex = 90;
+            this.ucSplitLine_H32.TabStop = false;
+            // 
+            // ucSplitLine_H33
+            // 
+            this.ucSplitLine_H33.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H33.Location = new System.Drawing.Point(357, 84);
+            this.ucSplitLine_H33.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H33.Name = "ucSplitLine_H33";
+            this.ucSplitLine_H33.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H33.TabIndex = 89;
+            this.ucSplitLine_H33.TabStop = false;
+            // 
+            // ucSplitLine_H34
+            // 
+            this.ucSplitLine_H34.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H34.Location = new System.Drawing.Point(272, 84);
+            this.ucSplitLine_H34.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H34.Name = "ucSplitLine_H34";
+            this.ucSplitLine_H34.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H34.TabIndex = 88;
+            this.ucSplitLine_H34.TabStop = false;
+            // 
+            // ucSplitLine_H35
+            // 
+            this.ucSplitLine_H35.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H35.Location = new System.Drawing.Point(187, 84);
+            this.ucSplitLine_H35.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H35.Name = "ucSplitLine_H35";
+            this.ucSplitLine_H35.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H35.TabIndex = 87;
+            this.ucSplitLine_H35.TabStop = false;
+            // 
+            // ucSplitLine_H36
+            // 
+            this.ucSplitLine_H36.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H36.Location = new System.Drawing.Point(102, 84);
+            this.ucSplitLine_H36.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H36.Name = "ucSplitLine_H36";
+            this.ucSplitLine_H36.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H36.TabIndex = 86;
+            this.ucSplitLine_H36.TabStop = false;
+            // 
+            // label100
+            // 
+            this.label100.AutoSize = true;
+            this.label100.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label100.Location = new System.Drawing.Point(1375, 6);
+            this.label100.Name = "label100";
+            this.label100.Size = new System.Drawing.Size(79, 15);
+            this.label100.TabIndex = 85;
+            this.label100.Text = "炉盖低位1";
+            // 
+            // label99
+            // 
+            this.label99.AutoSize = true;
+            this.label99.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label99.Location = new System.Drawing.Point(1290, 6);
+            this.label99.Name = "label99";
+            this.label99.Size = new System.Drawing.Size(79, 15);
+            this.label99.TabIndex = 84;
+            this.label99.Text = "炉盖低位1";
+            // 
+            // label98
+            // 
+            this.label98.AutoSize = true;
+            this.label98.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label98.Location = new System.Drawing.Point(1205, 6);
+            this.label98.Name = "label98";
+            this.label98.Size = new System.Drawing.Size(79, 15);
+            this.label98.TabIndex = 83;
+            this.label98.Text = "炉盖低位1";
+            // 
+            // label97
+            // 
+            this.label97.AutoSize = true;
+            this.label97.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label97.Location = new System.Drawing.Point(1120, 6);
+            this.label97.Name = "label97";
+            this.label97.Size = new System.Drawing.Size(71, 15);
+            this.label97.TabIndex = 82;
+            this.label97.Text = "加料急停";
+            // 
+            // label96
+            // 
+            this.label96.AutoSize = true;
+            this.label96.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label96.Location = new System.Drawing.Point(1033, 6);
+            this.label96.Name = "label96";
+            this.label96.Size = new System.Drawing.Size(71, 15);
+            this.label96.TabIndex = 81;
+            this.label96.Text = "加料条件";
+            // 
+            // label95
+            // 
+            this.label95.AutoSize = true;
+            this.label95.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label95.Location = new System.Drawing.Point(948, 6);
+            this.label95.Name = "label95";
+            this.label95.Size = new System.Drawing.Size(71, 15);
+            this.label95.TabIndex = 80;
+            this.label95.Text = "旋转解锁";
+            // 
+            // label94
+            // 
+            this.label94.AutoSize = true;
+            this.label94.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label94.Location = new System.Drawing.Point(865, 6);
+            this.label94.Name = "label94";
+            this.label94.Size = new System.Drawing.Size(71, 15);
+            this.label94.TabIndex = 79;
+            this.label94.Text = "旋转锁定";
+            // 
+            // label93
+            // 
+            this.label93.AutoSize = true;
+            this.label93.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label93.Location = new System.Drawing.Point(780, 6);
+            this.label93.Name = "label93";
+            this.label93.Size = new System.Drawing.Size(79, 15);
+            this.label93.TabIndex = 78;
+            this.label93.Text = "炉门打开2";
+            // 
+            // label92
+            // 
+            this.label92.AutoSize = true;
+            this.label92.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label92.Location = new System.Drawing.Point(695, 6);
+            this.label92.Name = "label92";
+            this.label92.Size = new System.Drawing.Size(79, 15);
+            this.label92.TabIndex = 77;
+            this.label92.Text = "炉门打开1";
+            // 
+            // label91
+            // 
+            this.label91.AutoSize = true;
+            this.label91.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label91.Location = new System.Drawing.Point(610, 6);
+            this.label91.Name = "label91";
+            this.label91.Size = new System.Drawing.Size(79, 15);
+            this.label91.TabIndex = 76;
+            this.label91.Text = "降下到位2";
+            // 
+            // label90
+            // 
+            this.label90.AutoSize = true;
+            this.label90.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label90.Location = new System.Drawing.Point(525, 6);
+            this.label90.Name = "label90";
+            this.label90.Size = new System.Drawing.Size(79, 15);
+            this.label90.TabIndex = 75;
+            this.label90.Text = "炉盖2降下";
+            // 
+            // label89
+            // 
+            this.label89.AutoSize = true;
+            this.label89.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label89.Location = new System.Drawing.Point(440, 6);
+            this.label89.Name = "label89";
+            this.label89.Size = new System.Drawing.Size(79, 15);
+            this.label89.TabIndex = 74;
+            this.label89.Text = "炉盖顶位2";
+            // 
+            // label88
+            // 
+            this.label88.AutoSize = true;
+            this.label88.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label88.Location = new System.Drawing.Point(354, 6);
+            this.label88.Name = "label88";
+            this.label88.Size = new System.Drawing.Size(79, 15);
+            this.label88.TabIndex = 73;
+            this.label88.Text = "炉盖低位2";
+            // 
+            // label87
+            // 
+            this.label87.AutoSize = true;
+            this.label87.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label87.Location = new System.Drawing.Point(269, 6);
+            this.label87.Name = "label87";
+            this.label87.Size = new System.Drawing.Size(79, 15);
+            this.label87.TabIndex = 72;
+            this.label87.Text = "降下到位1";
+            // 
+            // label86
+            // 
+            this.label86.AutoSize = true;
+            this.label86.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label86.Location = new System.Drawing.Point(184, 6);
+            this.label86.Name = "label86";
+            this.label86.Size = new System.Drawing.Size(79, 15);
+            this.label86.TabIndex = 71;
+            this.label86.Text = "炉盖1降下";
+            // 
+            // label85
+            // 
+            this.label85.AutoSize = true;
+            this.label85.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label85.Location = new System.Drawing.Point(99, 6);
+            this.label85.Name = "label85";
+            this.label85.Size = new System.Drawing.Size(79, 15);
+            this.label85.TabIndex = 70;
+            this.label85.Text = "炉盖顶位1";
+            // 
+            // ucSplitLine_H20
+            // 
+            this.ucSplitLine_H20.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H20.Location = new System.Drawing.Point(1378, 29);
+            this.ucSplitLine_H20.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H20.Name = "ucSplitLine_H20";
+            this.ucSplitLine_H20.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H20.TabIndex = 69;
+            this.ucSplitLine_H20.TabStop = false;
+            // 
+            // ucSplitLine_H19
+            // 
+            this.ucSplitLine_H19.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H19.Location = new System.Drawing.Point(1293, 29);
+            this.ucSplitLine_H19.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H19.Name = "ucSplitLine_H19";
+            this.ucSplitLine_H19.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H19.TabIndex = 68;
+            this.ucSplitLine_H19.TabStop = false;
+            // 
+            // ucSplitLine_H15
+            // 
+            this.ucSplitLine_H15.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H15.Location = new System.Drawing.Point(1208, 29);
+            this.ucSplitLine_H15.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H15.Name = "ucSplitLine_H15";
+            this.ucSplitLine_H15.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H15.TabIndex = 67;
+            this.ucSplitLine_H15.TabStop = false;
+            // 
+            // ucSplitLine_H14
+            // 
+            this.ucSplitLine_H14.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H14.Location = new System.Drawing.Point(1123, 29);
+            this.ucSplitLine_H14.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H14.Name = "ucSplitLine_H14";
+            this.ucSplitLine_H14.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H14.TabIndex = 66;
+            this.ucSplitLine_H14.TabStop = false;
+            // 
+            // ucSplitLine_H13
+            // 
+            this.ucSplitLine_H13.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H13.Location = new System.Drawing.Point(1038, 29);
+            this.ucSplitLine_H13.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H13.Name = "ucSplitLine_H13";
+            this.ucSplitLine_H13.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H13.TabIndex = 65;
+            this.ucSplitLine_H13.TabStop = false;
+            // 
+            // ucSplitLine_H12
+            // 
+            this.ucSplitLine_H12.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H12.Location = new System.Drawing.Point(953, 29);
+            this.ucSplitLine_H12.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H12.Name = "ucSplitLine_H12";
+            this.ucSplitLine_H12.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H12.TabIndex = 64;
+            this.ucSplitLine_H12.TabStop = false;
+            // 
+            // ucSplitLine_H11
+            // 
+            this.ucSplitLine_H11.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H11.Location = new System.Drawing.Point(868, 29);
+            this.ucSplitLine_H11.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H11.Name = "ucSplitLine_H11";
+            this.ucSplitLine_H11.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H11.TabIndex = 63;
+            this.ucSplitLine_H11.TabStop = false;
+            // 
+            // ucSplitLine_H10
+            // 
+            this.ucSplitLine_H10.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H10.Location = new System.Drawing.Point(783, 29);
+            this.ucSplitLine_H10.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H10.Name = "ucSplitLine_H10";
+            this.ucSplitLine_H10.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H10.TabIndex = 62;
+            this.ucSplitLine_H10.TabStop = false;
+            // 
+            // ucSplitLine_H9
+            // 
+            this.ucSplitLine_H9.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H9.Location = new System.Drawing.Point(698, 29);
+            this.ucSplitLine_H9.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H9.Name = "ucSplitLine_H9";
+            this.ucSplitLine_H9.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H9.TabIndex = 61;
+            this.ucSplitLine_H9.TabStop = false;
+            // 
+            // ucSplitLine_H8
+            // 
+            this.ucSplitLine_H8.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H8.Location = new System.Drawing.Point(613, 29);
+            this.ucSplitLine_H8.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H8.Name = "ucSplitLine_H8";
+            this.ucSplitLine_H8.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H8.TabIndex = 60;
+            this.ucSplitLine_H8.TabStop = false;
+            // 
+            // ucSplitLine_H7
+            // 
+            this.ucSplitLine_H7.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H7.Location = new System.Drawing.Point(528, 29);
+            this.ucSplitLine_H7.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H7.Name = "ucSplitLine_H7";
+            this.ucSplitLine_H7.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H7.TabIndex = 59;
+            this.ucSplitLine_H7.TabStop = false;
+            // 
+            // ucSplitLine_H6
+            // 
+            this.ucSplitLine_H6.BackColor = System.Drawing.Color.Green;
+            this.ucSplitLine_H6.Location = new System.Drawing.Point(443, 29);
+            this.ucSplitLine_H6.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H6.Name = "ucSplitLine_H6";
+            this.ucSplitLine_H6.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H6.TabIndex = 58;
+            this.ucSplitLine_H6.TabStop = false;
+            // 
+            // ucSplitLine_H5
+            // 
+            this.ucSplitLine_H5.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H5.Location = new System.Drawing.Point(357, 29);
+            this.ucSplitLine_H5.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H5.Name = "ucSplitLine_H5";
+            this.ucSplitLine_H5.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H5.TabIndex = 57;
+            this.ucSplitLine_H5.TabStop = false;
+            // 
+            // ucSplitLine_H4
+            // 
+            this.ucSplitLine_H4.BackColor = System.Drawing.Color.Red;
+            this.ucSplitLine_H4.Location = new System.Drawing.Point(272, 29);
+            this.ucSplitLine_H4.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H4.Name = "ucSplitLine_H4";
+            this.ucSplitLine_H4.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H4.TabIndex = 56;
+            this.ucSplitLine_H4.TabStop = false;
+            // 
+            // ucSplitLine_H3
+            // 
+            this.ucSplitLine_H3.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H3.Location = new System.Drawing.Point(187, 29);
+            this.ucSplitLine_H3.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H3.Name = "ucSplitLine_H3";
+            this.ucSplitLine_H3.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H3.TabIndex = 55;
+            this.ucSplitLine_H3.TabStop = false;
+            // 
+            // ucSplitLine_H2
+            // 
+            this.ucSplitLine_H2.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H2.Location = new System.Drawing.Point(102, 29);
+            this.ucSplitLine_H2.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.ucSplitLine_H2.Name = "ucSplitLine_H2";
+            this.ucSplitLine_H2.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H2.TabIndex = 54;
+            this.ucSplitLine_H2.TabStop = false;
+            // 
+            // label84
+            // 
+            this.label84.AutoSize = true;
+            this.label84.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label84.Location = new System.Drawing.Point(2, 167);
+            this.label84.Name = "label84";
+            this.label84.Size = new System.Drawing.Size(99, 19);
+            this.label84.TabIndex = 53;
+            this.label84.Text = "炉盖低位1";
+            // 
+            // label83
+            // 
+            this.label83.AutoSize = true;
+            this.label83.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label83.Location = new System.Drawing.Point(3, 115);
+            this.label83.Name = "label83";
+            this.label83.Size = new System.Drawing.Size(99, 19);
+            this.label83.TabIndex = 52;
+            this.label83.Text = "炉盖低位1";
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.Font = new System.Drawing.Font("黑体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label82.Location = new System.Drawing.Point(3, 60);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(99, 19);
+            this.label82.TabIndex = 51;
+            this.label82.Text = "炉盖低位1";
+            // 
+            // ucSplitLine_H18
+            // 
+            this.ucSplitLine_H18.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H18.Location = new System.Drawing.Point(17, 191);
+            this.ucSplitLine_H18.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
+            this.ucSplitLine_H18.Name = "ucSplitLine_H18";
+            this.ucSplitLine_H18.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H18.TabIndex = 50;
+            this.ucSplitLine_H18.TabStop = false;
+            // 
+            // ucSplitLine_H17
+            // 
+            this.ucSplitLine_H17.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H17.Location = new System.Drawing.Point(17, 138);
+            this.ucSplitLine_H17.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
+            this.ucSplitLine_H17.Name = "ucSplitLine_H17";
+            this.ucSplitLine_H17.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H17.TabIndex = 49;
+            this.ucSplitLine_H17.TabStop = false;
+            // 
+            // ucSplitLine_H16
+            // 
+            this.ucSplitLine_H16.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ucSplitLine_H16.Location = new System.Drawing.Point(17, 84);
+            this.ucSplitLine_H16.Margin = new System.Windows.Forms.Padding(3, 3, 5, 3);
+            this.ucSplitLine_H16.Name = "ucSplitLine_H16";
+            this.ucSplitLine_H16.Size = new System.Drawing.Size(65, 25);
+            this.ucSplitLine_H16.TabIndex = 48;
+            this.ucSplitLine_H16.TabStop = false;
+            // 
+            // label81
+            // 
+            this.label81.AutoSize = true;
+            this.label81.Font = new System.Drawing.Font("黑体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label81.Location = new System.Drawing.Point(11, 6);
+            this.label81.Name = "label81";
+            this.label81.Size = new System.Drawing.Size(79, 15);
+            this.label81.TabIndex = 47;
+            this.label81.Text = "炉盖低位1";
             // 
             // Form1
             // 
@@ -4475,15 +4475,15 @@
             this.panel3.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
