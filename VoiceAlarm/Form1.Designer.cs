@@ -28,20 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraCharts.XYDiagram xyDiagram3 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series3 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView5 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView6 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.ChartTitle chartTitle3 = new DevExpress.XtraCharts.ChartTitle();
-            DevExpress.XtraCharts.XYDiagram xyDiagram4 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series4 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView7 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.LineSeriesView lineSeriesView8 = new DevExpress.XtraCharts.LineSeriesView();
-            DevExpress.XtraCharts.ChartTitle chartTitle4 = new DevExpress.XtraCharts.ChartTitle();
-            HZH_Controls.Controls.TimeLineItem timeLineItem5 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem6 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem7 = new HZH_Controls.Controls.TimeLineItem();
-            HZH_Controls.Controls.TimeLineItem timeLineItem8 = new HZH_Controls.Controls.TimeLineItem();
+            this.components = new System.ComponentModel.Container();
+            DevExpress.XtraCharts.XYDiagram xyDiagram1 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView1 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView2 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.ChartTitle chartTitle1 = new DevExpress.XtraCharts.ChartTitle();
+            DevExpress.XtraCharts.XYDiagram xyDiagram2 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series2 = new DevExpress.XtraCharts.Series();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView3 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.LineSeriesView lineSeriesView4 = new DevExpress.XtraCharts.LineSeriesView();
+            DevExpress.XtraCharts.ChartTitle chartTitle2 = new DevExpress.XtraCharts.ChartTitle();
+            HZH_Controls.Controls.TimeLineItem timeLineItem1 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem2 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem3 = new HZH_Controls.Controls.TimeLineItem();
+            HZH_Controls.Controls.TimeLineItem timeLineItem4 = new HZH_Controls.Controls.TimeLineItem();
             this.label1 = new System.Windows.Forms.Label();
             this.v = new System.Windows.Forms.TableLayoutPanel();
             this.ucSignalLamp20 = new HZH_Controls.Controls.UCSignalLamp();
@@ -196,8 +197,8 @@
             this.textBox28 = new System.Windows.Forms.TextBox();
             this.label69 = new System.Windows.Forms.Label();
             this.textBox27 = new System.Windows.Forms.TextBox();
-            this.ucledData1 = new HZH_Controls.Controls.UCLEDData();
-            this.ucledTime1 = new HZH_Controls.Controls.UCLEDTime();
+            this.Data1 = new HZH_Controls.Controls.UCLEDData();
+            this.Time1 = new HZH_Controls.Controls.UCLEDTime();
             this.panel8 = new System.Windows.Forms.Panel();
             this.label50 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
@@ -366,21 +367,31 @@
             this.ucSplitLine_H17 = new HZH_Controls.Controls.UCSplitLine_H();
             this.ucSplitLine_H16 = new HZH_Controls.Controls.UCSplitLine_H();
             this.label81 = new System.Windows.Forms.Label();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.label154 = new System.Windows.Forms.Label();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.label155 = new System.Windows.Forms.Label();
+            this.richTextBox3 = new System.Windows.Forms.RichTextBox();
+            this.label156 = new System.Windows.Forms.Label();
+            this.richTextBox4 = new System.Windows.Forms.RichTextBox();
+            this.label157 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.v.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView4)).BeginInit();
             this.panel5.SuspendLayout();
             this.panel6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -388,6 +399,7 @@
             this.panel8.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
+            this.panel11.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -410,7 +422,7 @@
             this.v.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 110F));
             this.v.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 110F));
             this.v.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 110F));
-            this.v.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 110F));
+            this.v.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 121F));
             this.v.Controls.Add(this.ucSignalLamp20, 6, 5);
             this.v.Controls.Add(this.ucSignalLamp19, 5, 5);
             this.v.Controls.Add(this.ucSignalLamp18, 4, 5);
@@ -1447,45 +1459,45 @@
             // chartControl2
             // 
             this.chartControl2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            xyDiagram3.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram3.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartControl2.Diagram = xyDiagram3;
+            xyDiagram1.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram1.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartControl2.Diagram = xyDiagram1;
             this.chartControl2.Legend.Visibility = DevExpress.Utils.DefaultBoolean.False;
             this.chartControl2.Location = new System.Drawing.Point(358, 3);
             this.chartControl2.Name = "chartControl2";
             this.chartControl2.PaletteName = "Yellow";
-            series3.Name = "系列1";
-            series3.View = lineSeriesView5;
+            series1.Name = "系列1";
+            series1.View = lineSeriesView1;
             this.chartControl2.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series3};
-            this.chartControl2.SeriesTemplate.View = lineSeriesView6;
+        series1};
+            this.chartControl2.SeriesTemplate.View = lineSeriesView2;
             this.chartControl2.Size = new System.Drawing.Size(322, 200);
             this.chartControl2.TabIndex = 18;
-            chartTitle3.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartTitle3.Text = "2#位底吹流量";
+            chartTitle1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartTitle1.Text = "2#位底吹流量";
             this.chartControl2.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle3});
+            chartTitle1});
             // 
             // chartControl1
             // 
             this.chartControl1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            xyDiagram4.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram4.AxisY.VisibleInPanesSerializable = "-1";
-            this.chartControl1.Diagram = xyDiagram4;
+            xyDiagram2.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram2.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartControl1.Diagram = xyDiagram2;
             this.chartControl1.Legend.Visibility = DevExpress.Utils.DefaultBoolean.False;
             this.chartControl1.Location = new System.Drawing.Point(10, 3);
             this.chartControl1.Name = "chartControl1";
-            series4.Name = "系列1";
-            series4.View = lineSeriesView7;
+            series2.Name = "系列1";
+            series2.View = lineSeriesView3;
             this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series4};
-            this.chartControl1.SeriesTemplate.View = lineSeriesView8;
+        series2};
+            this.chartControl1.SeriesTemplate.View = lineSeriesView4;
             this.chartControl1.Size = new System.Drawing.Size(322, 200);
             this.chartControl1.TabIndex = 17;
-            chartTitle4.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartTitle4.Text = "1#位底吹流量";
+            chartTitle2.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartTitle2.Text = "1#位底吹流量";
             this.chartControl1.Titles.AddRange(new DevExpress.XtraCharts.ChartTitle[] {
-            chartTitle4});
+            chartTitle2});
             // 
             // panel5
             // 
@@ -2025,23 +2037,23 @@
             this.ucTimeLine1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.ucTimeLine1.DetailsFont = new System.Drawing.Font("微软雅黑", 10F);
             this.ucTimeLine1.DetailsForcolor = System.Drawing.Color.FromArgb(((int)(((byte)(144)))), ((int)(((byte)(147)))), ((int)(((byte)(153)))));
-            timeLineItem5.Details = "2020年04月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem1.Details = "2020年04月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem5.Title = "2020年04月";
-            timeLineItem6.Details = "2020年05月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem1.Title = "2020年04月";
+            timeLineItem2.Details = "2020年05月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem6.Title = "2020年05月";
-            timeLineItem7.Details = "2020年06月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem2.Title = "2020年05月";
+            timeLineItem3.Details = "2020年06月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem7.Title = "2020年06月";
-            timeLineItem8.Details = "2020年07月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
+            timeLineItem3.Title = "2020年06月";
+            timeLineItem4.Details = "2020年07月发生了一件大事，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷" +
     "，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，咔嚓一声打了一个炸雷，然后王二麻子他爹王咔嚓出生了。";
-            timeLineItem8.Title = "2020年07月";
+            timeLineItem4.Title = "2020年07月";
             this.ucTimeLine1.Items = new HZH_Controls.Controls.TimeLineItem[] {
-        timeLineItem5,
-        timeLineItem6,
-        timeLineItem7,
-        timeLineItem8};
+        timeLineItem1,
+        timeLineItem2,
+        timeLineItem3,
+        timeLineItem4};
             this.ucTimeLine1.LineColor = System.Drawing.Color.Red;
             this.ucTimeLine1.Location = new System.Drawing.Point(1536, 655);
             this.ucTimeLine1.Name = "ucTimeLine1";
@@ -2254,7 +2266,7 @@
             this.panel7.Controls.Add(this.textBox27);
             this.panel7.Location = new System.Drawing.Point(796, 660);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(748, 194);
+            this.panel7.Size = new System.Drawing.Size(734, 194);
             this.panel7.TabIndex = 24;
             // 
             // label149
@@ -2362,7 +2374,7 @@
             this.textBox37.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.textBox37.Location = new System.Drawing.Point(633, 93);
             this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(106, 30);
+            this.textBox37.Size = new System.Drawing.Size(87, 30);
             this.textBox37.TabIndex = 27;
             // 
             // label80
@@ -2380,7 +2392,7 @@
             this.textBox38.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.textBox38.Location = new System.Drawing.Point(633, 32);
             this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(106, 30);
+            this.textBox38.Size = new System.Drawing.Size(87, 30);
             this.textBox38.TabIndex = 25;
             // 
             // label77
@@ -2563,24 +2575,24 @@
             this.textBox27.Size = new System.Drawing.Size(106, 30);
             this.textBox27.TabIndex = 0;
             // 
-            // ucledData1
+            // Data1
             // 
-            this.ucledData1.LineWidth = 4;
-            this.ucledData1.Location = new System.Drawing.Point(128, 3);
-            this.ucledData1.Margin = new System.Windows.Forms.Padding(0);
-            this.ucledData1.Name = "ucledData1";
-            this.ucledData1.Size = new System.Drawing.Size(288, 46);
-            this.ucledData1.TabIndex = 25;
-            this.ucledData1.Value = new System.DateTime(2020, 7, 17, 10, 23, 50, 851);
+            this.Data1.LineWidth = 4;
+            this.Data1.Location = new System.Drawing.Point(128, 3);
+            this.Data1.Margin = new System.Windows.Forms.Padding(0);
+            this.Data1.Name = "Data1";
+            this.Data1.Size = new System.Drawing.Size(288, 46);
+            this.Data1.TabIndex = 25;
+            this.Data1.Value = new System.DateTime(2020, 7, 17, 10, 23, 50, 851);
             // 
-            // ucledTime1
+            // Time1
             // 
-            this.ucledTime1.LineWidth = 4;
-            this.ucledTime1.Location = new System.Drawing.Point(131, 52);
-            this.ucledTime1.Name = "ucledTime1";
-            this.ucledTime1.Size = new System.Drawing.Size(232, 46);
-            this.ucledTime1.TabIndex = 26;
-            this.ucledTime1.Value = new System.DateTime(2020, 7, 17, 10, 24, 8, 974);
+            this.Time1.LineWidth = 4;
+            this.Time1.Location = new System.Drawing.Point(131, 52);
+            this.Time1.Name = "Time1";
+            this.Time1.Size = new System.Drawing.Size(232, 46);
+            this.Time1.TabIndex = 26;
+            this.Time1.Value = new System.DateTime(2020, 7, 17, 10, 24, 8, 974);
             // 
             // panel8
             // 
@@ -2588,8 +2600,8 @@
             this.panel8.Controls.Add(this.label50);
             this.panel8.Controls.Add(this.label49);
             this.panel8.Controls.Add(this.pictureBox1);
-            this.panel8.Controls.Add(this.ucledTime1);
-            this.panel8.Controls.Add(this.ucledData1);
+            this.panel8.Controls.Add(this.Time1);
+            this.panel8.Controls.Add(this.Data1);
             this.panel8.Location = new System.Drawing.Point(11, 0);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(494, 167);
@@ -3087,7 +3099,7 @@
             this.panel10.Location = new System.Drawing.Point(9, 860);
             this.panel10.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(1535, 218);
+            this.panel10.Size = new System.Drawing.Size(1521, 218);
             this.panel10.TabIndex = 34;
             // 
             // label133
@@ -4440,12 +4452,110 @@
             this.label81.TabIndex = 47;
             this.label81.Text = "炉盖低位1";
             // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.richTextBox4);
+            this.panel11.Controls.Add(this.label157);
+            this.panel11.Controls.Add(this.richTextBox3);
+            this.panel11.Controls.Add(this.label156);
+            this.panel11.Controls.Add(this.richTextBox2);
+            this.panel11.Controls.Add(this.label155);
+            this.panel11.Controls.Add(this.richTextBox1);
+            this.panel11.Controls.Add(this.label154);
+            this.panel11.Location = new System.Drawing.Point(1413, 5);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(495, 100);
+            this.panel11.TabIndex = 35;
+            // 
+            // label154
+            // 
+            this.label154.AutoSize = true;
+            this.label154.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label154.Location = new System.Drawing.Point(4, 12);
+            this.label154.Name = "label154";
+            this.label154.Size = new System.Drawing.Size(89, 20);
+            this.label154.TabIndex = 0;
+            this.label154.Text = "电炉通电";
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.BackColor = System.Drawing.Color.OrangeRed;
+            this.richTextBox1.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.richTextBox1.ForeColor = System.Drawing.Color.Yellow;
+            this.richTextBox1.Location = new System.Drawing.Point(17, 49);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(63, 48);
+            this.richTextBox1.TabIndex = 2;
+            this.richTextBox1.Text = "25";
+            // 
+            // richTextBox2
+            // 
+            this.richTextBox2.BackColor = System.Drawing.Color.OrangeRed;
+            this.richTextBox2.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.richTextBox2.ForeColor = System.Drawing.Color.Yellow;
+            this.richTextBox2.Location = new System.Drawing.Point(112, 49);
+            this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.Size = new System.Drawing.Size(63, 48);
+            this.richTextBox2.TabIndex = 4;
+            this.richTextBox2.Text = "25";
+            // 
+            // label155
+            // 
+            this.label155.AutoSize = true;
+            this.label155.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label155.Location = new System.Drawing.Point(99, 12);
+            this.label155.Name = "label155";
+            this.label155.Size = new System.Drawing.Size(89, 20);
+            this.label155.TabIndex = 3;
+            this.label155.Text = "电炉冶炼";
+            // 
+            // richTextBox3
+            // 
+            this.richTextBox3.Location = new System.Drawing.Point(207, 45);
+            this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.Size = new System.Drawing.Size(133, 48);
+            this.richTextBox3.TabIndex = 6;
+            this.richTextBox3.Text = "25";
+            // 
+            // label156
+            // 
+            this.label156.AutoSize = true;
+            this.label156.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label156.Location = new System.Drawing.Point(229, 8);
+            this.label156.Name = "label156";
+            this.label156.Size = new System.Drawing.Size(89, 20);
+            this.label156.TabIndex = 5;
+            this.label156.Text = "1#位炉号";
+            // 
+            // richTextBox4
+            // 
+            this.richTextBox4.Location = new System.Drawing.Point(350, 45);
+            this.richTextBox4.Name = "richTextBox4";
+            this.richTextBox4.Size = new System.Drawing.Size(138, 48);
+            this.richTextBox4.TabIndex = 8;
+            this.richTextBox4.Text = "25";
+            // 
+            // label157
+            // 
+            this.label157.AutoSize = true;
+            this.label157.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label157.Location = new System.Drawing.Point(375, 10);
+            this.label157.Name = "label157";
+            this.label157.Size = new System.Drawing.Size(89, 20);
+            this.label157.TabIndex = 7;
+            this.label157.Text = "2#位炉号";
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(1920, 1080);
+            this.Controls.Add(this.panel11);
             this.Controls.Add(this.panel10);
             this.Controls.Add(this.panel9);
             this.Controls.Add(this.panel8);
@@ -4475,15 +4585,15 @@
             this.panel3.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(lineSeriesView8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(lineSeriesView4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
@@ -4498,6 +4608,8 @@
             this.panel9.PerformLayout();
             this.panel10.ResumeLayout(false);
             this.panel10.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -4616,8 +4728,8 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Panel panel7;
-        private HZH_Controls.Controls.UCLEDData ucledData1;
-        private HZH_Controls.Controls.UCLEDTime ucledTime1;
+        private HZH_Controls.Controls.UCLEDData Data1;
+        private HZH_Controls.Controls.UCLEDTime Time1;
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.Label label49;
@@ -4828,6 +4940,16 @@
         private System.Windows.Forms.TextBox textBox42;
         private System.Windows.Forms.Label label153;
         private System.Windows.Forms.TextBox textBox43;
+        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.RichTextBox richTextBox4;
+        private System.Windows.Forms.Label label157;
+        private System.Windows.Forms.RichTextBox richTextBox3;
+        private System.Windows.Forms.Label label156;
+        private System.Windows.Forms.RichTextBox richTextBox2;
+        private System.Windows.Forms.Label label155;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Label label154;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

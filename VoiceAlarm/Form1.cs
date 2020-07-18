@@ -19,6 +19,8 @@ namespace VoiceAlarm
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            timer1.Interval = 1000;
+            timer1.Start();
             //Image img = System.Drawing.Image.FromFile(@"E:\生产预警系统\VoiceAlarm\VoiceAlarm\Resource\sg2.PNG");
             //Bitmap ptmap = new Bitmap(img);
             //ptmap.MakeTransparent(Color.White);
@@ -127,6 +129,12 @@ namespace VoiceAlarm
                 }
             }
             return false;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            Data1.Value = Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd"));
+            Time1.Value = Convert.ToDateTime(DateTime.Now.ToString("hh:mm:ss"));
         }
     }
 }
